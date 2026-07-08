@@ -1,0 +1,32 @@
+{
+  "name": "trinket_shop_video_crop",
+  "description": "Trinket selection profile for cropped video screenshots where the game board is narrower and the left opponent list remains visible.",
+  "base_size": [1260, 632],
+  "phase": "trinket_shop",
+  "regions": [
+    {
+      "id": "trinket_1",
+      "kind": "trinket",
+      "box": [0.255, 0.270, 0.400, 0.745],
+      "note": "Leftmost trinket option."
+    },
+    {
+      "id": "trinket_2",
+      "kind": "trinket",
+      "box": [0.430, 0.270, 0.575, 0.745],
+      "note": "Second trinket option."
+    },
+    {
+      "id": "trinket_3",
+      "kind": "trinket",
+      "box": [0.605, 0.270, 0.750, 0.745],
+      "note": "Third trinket option."
+    },
+    {
+      "id": "trinket_4",
+      "kind": "trinket",
+      "box": [0.780, 0.270, 0.925, 0.745],
+      "note": "Rightmost trinket option."
+    }
+  ]
+}

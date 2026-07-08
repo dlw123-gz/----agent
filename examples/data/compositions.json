@@ -1,0 +1,16 @@
+[
+  {
+    "id": "beast_summon",
+    "name": "野兽召唤成长",
+    "tribes": ["野兽"],
+    "core_tags": ["summon", "buff", "deathrattle"],
+    "plan": "优先拿召唤频率、亡语衍生物和召唤后成长组件。中期保血，后期找高本核心和群体增益。"
+  },
+  {
+    "id": "mech_scaling",
+    "name": "机械属性成长",
+    "tribes": ["机械"],
+    "core_tags": ["scaling", "magnetize", "divine_shield"],
+    "plan": "用机械属性成长和圣盾提升战力，缺核心时不要过早锁死阵容。"
+  }
+]

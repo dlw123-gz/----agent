@@ -1,0 +1,22 @@
+{
+  "name": "shop_buy_video_right_crop",
+  "description": "Shop-buy phase profile for cropped gameplay where shop and board slots appear shifted right.",
+  "base_size": [821, 502],
+  "phase": "shop_buy",
+  "regions": [
+    {"id": "shop_1", "kind": "card", "box": [0.190, 0.175, 0.315, 0.485], "note": "Leftmost shop minion."},
+    {"id": "shop_2", "kind": "card", "box": [0.295, 0.175, 0.420, 0.485], "note": "Shop minion 2."},
+    {"id": "shop_3", "kind": "card", "box": [0.400, 0.175, 0.525, 0.485], "note": "Shop minion 3."},
+    {"id": "shop_4", "kind": "card", "box": [0.505, 0.175, 0.630, 0.485], "note": "Shop minion 4."},
+    {"id": "shop_5", "kind": "card", "box": [0.610, 0.175, 0.735, 0.485], "note": "Shop minion 5."},
+    {"id": "shop_6", "kind": "card", "box": [0.715, 0.175, 0.840, 0.485], "note": "Shop minion 6."},
+    {"id": "shop_7", "kind": "card", "box": [0.820, 0.175, 0.945, 0.485], "note": "Rightmost shop minion."},
+    {"id": "board_1", "kind": "card", "box": [0.170, 0.455, 0.295, 0.790], "note": "Leftmost friendly board minion."},
+    {"id": "board_2", "kind": "card", "box": [0.280, 0.455, 0.405, 0.790], "note": "Friendly board minion 2."},
+    {"id": "board_3", "kind": "card", "box": [0.390, 0.455, 0.515, 0.790], "note": "Friendly board minion 3."},
+    {"id": "board_4", "kind": "card", "box": [0.500, 0.455, 0.625, 0.790], "note": "Friendly board minion 4."},
+    {"id": "board_5", "kind": "card", "box": [0.610, 0.455, 0.735, 0.790], "note": "Friendly board minion 5."},
+    {"id": "board_6", "kind": "card", "box": [0.720, 0.455, 0.845, 0.790], "note": "Friendly board minion 6."},
+    {"id": "board_7", "kind": "card", "box": [0.830, 0.455, 0.955, 0.790], "note": "Rightmost friendly board minion."}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "shop_buy_fullscreen",
+  "description": "Shop-buy phase profile for full-screen Battlegrounds screenshots. Narrower card boxes avoid crossing into neighboring cards.",
+  "base_size": [750, 610],
+  "phase": "shop_buy",
+  "regions": [
+    {"id": "shop_1", "kind": "card", "box": [0.155, 0.215, 0.255, 0.420], "note": "Shop slot 1."},
+    {"id": "shop_2", "kind": "card", "box": [0.270, 0.215, 0.370, 0.420], "note": "Shop slot 2."},
+    {"id": "shop_3", "kind": "card", "box": [0.385, 0.215, 0.485, 0.420], "note": "Shop slot 3."},
+    {"id": "shop_4", "kind": "card", "box": [0.500, 0.215, 0.600, 0.420], "note": "Shop slot 4."},
+    {"id": "shop_5", "kind": "card", "box": [0.615, 0.215, 0.715, 0.420], "note": "Shop slot 5."},
+    {"id": "shop_6", "kind": "card", "box": [0.730, 0.215, 0.830, 0.420], "note": "Shop slot 6."},
+    {"id": "shop_7", "kind": "card", "box": [0.845, 0.215, 0.945, 0.420], "note": "Shop slot 7."},
+    {"id": "board_1", "kind": "card", "box": [0.190, 0.455, 0.300, 0.650], "note": "Friendly board slot 1."},
+    {"id": "board_2", "kind": "card", "box": [0.310, 0.455, 0.420, 0.650], "note": "Friendly board slot 2."},
+    {"id": "board_3", "kind": "card", "box": [0.430, 0.455, 0.540, 0.650], "note": "Friendly board slot 3."},
+    {"id": "board_4", "kind": "card", "box": [0.550, 0.455, 0.660, 0.650], "note": "Friendly board slot 4."},
+    {"id": "board_5", "kind": "card", "box": [0.670, 0.455, 0.780, 0.650], "note": "Friendly board slot 5."},
+    {"id": "board_6", "kind": "card", "box": [0.790, 0.455, 0.900, 0.650], "note": "Friendly board slot 6."},
+    {"id": "board_7", "kind": "card", "box": [0.910, 0.455, 1.000, 0.650], "note": "Friendly board slot 7."}
+  ]
+}

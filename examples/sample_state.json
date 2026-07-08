@@ -1,0 +1,85 @@
+{
+  "available_tribes": ["野兽", "机械", "龙", "元素", "海盗"],
+  "notes": "示例局面：中期，血量健康，可以在战力和升本之间权衡。",
+  "player": {
+    "tavern_tier": 3,
+    "health": 32,
+    "armor": 4,
+    "gold": 8,
+    "turn": 6,
+    "board": [
+      {
+        "card_id": "beast_summoner",
+        "name": "兽群召唤者",
+        "attack": 4,
+        "health": 5,
+        "position": 0,
+        "tribes": ["野兽"],
+        "text": "每当你召唤一个野兽，使其获得+1/+1。"
+      },
+      {
+        "card_id": "beast_token",
+        "name": "裂蹄幼兽",
+        "attack": 3,
+        "health": 3,
+        "position": 1,
+        "tribes": ["野兽"],
+        "text": "亡语：召唤一个1/1野兽。"
+      }
+    ]
+  },
+  "shop": {
+    "roll_cost": 1,
+    "level_cost": 6,
+    "cards": [
+      {
+        "id": "beast_buffer",
+        "name": "兽栏管理员",
+        "tier": 3,
+        "attack": 3,
+        "health": 4,
+        "tribes": ["野兽"],
+        "text": "战吼：使一个友方野兽获得+3/+3。",
+        "tags": ["buff", "battlecry"]
+      },
+      {
+        "id": "mech_scaler",
+        "name": "齿轮工匠",
+        "tier": 3,
+        "attack": 2,
+        "health": 6,
+        "tribes": ["机械"],
+        "text": "每当一个机械获得属性，额外获得+1/+1。",
+        "tags": ["scaling"]
+      },
+      {
+        "id": "neutral_economy",
+        "name": "理财雇员",
+        "tier": 2,
+        "attack": 2,
+        "health": 2,
+        "tribes": [],
+        "text": "出售时获得1枚铸币。",
+        "tags": ["economy"]
+      }
+    ]
+  },
+  "offered_trinkets": [
+    {
+      "id": "beast_charm",
+      "name": "兽群护符",
+      "text": "每回合第一个召唤的野兽获得+4/+4。",
+      "tier": "lesser",
+      "tribes": ["野兽"],
+      "tags": ["summon", "buff"]
+    },
+    {
+      "id": "coin_pouch",
+      "name": "幸运钱袋",
+      "text": "每回合开始时获得1枚铸币。",
+      "tier": "lesser",
+      "tribes": [],
+      "tags": ["economy"]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "beast_summoner",
+    "name": "兽群召唤者",
+    "tier": 3,
+    "attack": 4,
+    "health": 5,
+    "tribes": ["野兽"],
+    "text": "每当你召唤一个野兽，使其获得+1/+1。",
+    "tags": ["summon", "buff", "scaling"]
+  },
+  {
+    "id": "beast_buffer",
+    "name": "兽栏管理员",
+    "tier": 3,
+    "attack": 3,
+    "health": 4,
+    "tribes": ["野兽"],
+    "text": "战吼：使一个友方野兽获得+3/+3。",
+    "tags": ["buff", "battlecry"]
+  },
+  {
+    "id": "mech_scaler",
+    "name": "齿轮工匠",
+    "tier": 3,
+    "attack": 2,
+    "health": 6,
+    "tribes": ["机械"],
+    "text": "每当一个机械获得属性，额外获得+1/+1。",
+    "tags": ["scaling"]
+  }
+]

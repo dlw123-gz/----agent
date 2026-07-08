@@ -1,0 +1,32 @@
+{
+  "name": "trinket_shop_fullscreen",
+  "description": "Trinket selection profile for near-full 16:9 Battlegrounds screenshots. Four trinket offer cards are cropped from left to right.",
+  "base_size": [1934, 1105],
+  "phase": "trinket_shop",
+  "regions": [
+    {
+      "id": "trinket_1",
+      "kind": "trinket",
+      "box": [0.175, 0.275, 0.330, 0.745],
+      "note": "Leftmost trinket option."
+    },
+    {
+      "id": "trinket_2",
+      "kind": "trinket",
+      "box": [0.370, 0.275, 0.525, 0.745],
+      "note": "Second trinket option."
+    },
+    {
+      "id": "trinket_3",
+      "kind": "trinket",
+      "box": [0.565, 0.275, 0.720, 0.745],
+      "note": "Third trinket option."
+    },
+    {
+      "id": "trinket_4",
+      "kind": "trinket",
+      "box": [0.760, 0.275, 0.915, 0.745],
+      "note": "Rightmost trinket option."
+    }
+  ]
+}

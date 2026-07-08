@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "battlegrounds-agent"
+version = "0.1.0"
+description = "LLM-assisted Hearthstone Battlegrounds style game agent"
+requires-python = ">=3.10"
+dependencies = ["pillow>=10"]
+
+[project.scripts]
+battlegrounds-agent = "battlegrounds_agent.cli:main"
+battlegrounds-live = "battlegrounds_agent.live_agent:main"
+battlegrounds-import-metadata = "battlegrounds_agent.metadata_importer:main"
+battlegrounds-card-ocr = "battlegrounds_agent.card_image_ocr:main"
+battlegrounds-desktop = "battlegrounds_agent.desktop_assistant:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

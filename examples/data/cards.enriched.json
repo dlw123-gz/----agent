@@ -1,0 +1,4472 @@
+[
+  {
+    "id": "BG20_100",
+    "name": "剃刀沼泽地卜师",
+    "tier": 1,
+    "attack": 2,
+    "health": 1,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "战吼：获取2张 鲜血宝石。",
+    "tags": [
+      "battlecry",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG20_100_battlegroundsImage.png",
+    "source_filename": "BG20_100_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG20_203",
+    "name": "野猪预言者",
+    "tier": 2,
+    "attack": 2,
+    "health": 3,
+    "tribes": [],
+    "text": "嘲讽。在你使用一张野猪人后，获取一张鲜血宝石。",
+    "tags": [
+      "taunt"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG20_203_battlegroundsImage.png",
+    "source_filename": "BG20_203_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG20_301",
+    "name": "晾膘的游客",
+    "tier": 1,
+    "attack": 2,
+    "health": 3,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "当你出售本随从时，获取2张鲜血宝石。",
+    "tags": [
+      "economy",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG20_301_battlegroundsImage.png",
+    "source_filename": "BG20_301_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG21_005",
+    "name": "饥饿的魔蝠",
+    "tier": 5,
+    "attack": 6,
+    "health": 3,
+    "tribes": [
+      "恶魔"
+    ],
+    "text": "在你的回合结束时，你的恶魔各吞食酒馆中的一个随从，获得其属性值。",
+    "tags": [
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG21_005_battlegroundsImage.png",
+    "source_filename": "BG21_005_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG21_014",
+    "name": "珍稀增强幼龙",
+    "tier": 4,
+    "attack": 1,
+    "health": 1,
+    "tribes": [
+      "龙"
+    ],
+    "text": "战斗开始时：使你的龙获得+4/+4。",
+    "tags": [
+      "buff",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG21_014_battlegroundsImage.png",
+    "source_filename": "BG21_014_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG21_015",
+    "name": "泰蕾苟萨",
+    "tier": 2,
+    "attack": 4,
+    "health": 4,
+    "tribes": [
+      "龙"
+    ],
+    "text": "本随从可永久保留战斗阶段获得的额外关键词和属性值。",
+    "tags": [
+      "scaling",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG21_015_battlegroundsImage.png",
+    "source_filename": "BG21_015_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG21_018",
+    "name": "挑衅的船工",
+    "tier": 2,
+    "attack": 2,
+    "health": 5,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "每当本随从通过其他来源获得攻击力时，获得+1生命值。0每当本随从通过其他来源获得攻击力时，获得+0/+1。",
+    "tags": [
+      "buff",
+      "scaling",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG21_018_battlegroundsImage.png",
+    "source_filename": "BG21_018_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG22_202",
+    "name": "塔德",
+    "tier": 2,
+    "attack": 2,
+    "health": 2,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "当你出售本随从时，随机获取一张鱼人牌。",
+    "tags": [
+      "economy",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG22_202_battlegroundsImage.png",
+    "source_filename": "BG22_202_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG23_002",
+    "name": "贝类收藏家",
+    "tier": 2,
+    "attack": 4,
+    "health": 3,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "战吼：获取 一张酒馆币。",
+    "tags": [
+      "battlecry",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG23_002_battlegroundsImage.png",
+    "source_filename": "BG23_002_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG23_004",
+    "name": "深海钓客",
+    "tier": 3,
+    "attack": 2,
+    "health": 3,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "塑造法术：直到下个回合，使一个随从获得+2/+6和嘲讽。",
+    "tags": [
+      "buff",
+      "spell",
+      "taunt",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG23_004_battlegroundsImage.png",
+    "source_filename": "BG23_004_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG23_008",
+    "name": "闪鳞纳迦",
+    "tier": 5,
+    "attack": 4,
+    "health": 6,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "嘲讽，塑造法术：直到下个回合，使一个随从获得圣盾。",
+    "tags": [
+      "buff",
+      "divine_shield",
+      "spell",
+      "taunt",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG23_008_battlegroundsImage.png",
+    "source_filename": "BG23_008_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG23_009",
+    "name": "熔岩潜伏者",
+    "tier": 2,
+    "attack": 2,
+    "health": 5,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "每回合从手牌对本随从使用的第一张塑造法术的法术牌永久有效。（还剩1张！）",
+    "tags": [
+      "scaling",
+      "spell",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG23_009_battlegroundsImage.png",
+    "source_filename": "BG23_009_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG23_017",
+    "name": "鲜血勇士",
+    "tier": 7,
+    "attack": 18,
+    "health": 3,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "战吼，亡语：在本局对战中，你的鲜血宝石使随从额外获得+1/+1。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "deathrattle",
+      "scaling",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG23_017_battlegroundsImage.png",
+    "source_filename": "BG23_017_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG23_018",
+    "name": "暗视长者",
+    "tier": 5,
+    "attack": 6,
+    "health": 8,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "每当你花掉8枚铸币，本随从对你的所有野猪人各使用两张鲜血宝石。（还剩8枚！）",
+    "tags": [
+      "economy",
+      "scaling",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG23_018_battlegroundsImage.png",
+    "source_filename": "BG23_018_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG23_318",
+    "name": "莽神火车王",
+    "tier": 5,
+    "attack": 6,
+    "health": 2,
+    "tribes": [],
+    "text": "亡语：消灭击杀本随从的随从。",
+    "tags": [
+      "deathrattle"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG23_318_battlegroundsImage.png",
+    "source_filename": "BG23_318_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG24_009",
+    "name": "挑食魔犬",
+    "tier": 1,
+    "attack": 1,
+    "health": 1,
+    "tribes": [
+      "恶魔"
+    ],
+    "text": "战吼：随机吞食酒馆中的一个随从，获得其属性值。",
+    "tags": [
+      "battlecry",
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG24_009_battlegroundsImage.png",
+    "source_filename": "BG24_009_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG24_018",
+    "name": "蓝壳始祖龟",
+    "tier": 4,
+    "attack": 3,
+    "health": 6,
+    "tribes": [],
+    "text": "如果你输掉了上一场战斗，出售本随从可以获得5枚铸币。",
+    "tags": [
+      "economy"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG24_018_battlegroundsImage.png",
+    "source_filename": "BG24_018_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG24_500",
+    "name": "琥珀卫士",
+    "tier": 3,
+    "attack": 3,
+    "health": 2,
+    "tribes": [
+      "龙"
+    ],
+    "text": "嘲讽。战斗开始时：使另一条友方的龙获得+2/+2和圣盾。",
+    "tags": [
+      "buff",
+      "divine_shield",
+      "taunt",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG24_500_battlegroundsImage.png",
+    "source_filename": "BG24_500_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG24_707",
+    "name": "刺鬃废料铁匠",
+    "tier": 3,
+    "attack": 4,
+    "health": 4,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "在一个友方嘲讽随从死亡后，获取一张鲜血宝石。",
+    "tags": [
+      "taunt",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG24_707_battlegroundsImage.png",
+    "source_filename": "BG24_707_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG24_715",
+    "name": "耐心的侦查员",
+    "tier": 2,
+    "attack": 1,
+    "health": 1,
+    "tribes": [],
+    "text": "当你出售本随从时，发现一个等级1的随从。（每回合都会提升！）",
+    "tags": [
+      "discover",
+      "economy",
+      "scaling"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG24_715_battlegroundsImage.png",
+    "source_filename": "BG24_715_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG25_001",
+    "name": "复活的骑兵",
+    "tier": 1,
+    "attack": 2,
+    "health": 1,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "嘲讽，复生",
+    "tags": [
+      "reborn",
+      "taunt",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_001_battlegroundsImage.png",
+    "source_filename": "BG25_001_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG25_008",
+    "name": "永恒骑士",
+    "tier": 2,
+    "attack": 4,
+    "health": 2,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "在本局对战中，每有一个友方永恒骑士死亡，便拥有+4/+2（无论本随从在哪）。",
+    "tags": [
+      "buff",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_008_battlegroundsImage.png",
+    "source_filename": "BG25_008_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG25_009",
+    "name": "永恒召唤者",
+    "tier": 6,
+    "attack": 8,
+    "health": 1,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "复生。亡语：召唤1个永恒骑士。",
+    "tags": [
+      "deathrattle",
+      "reborn",
+      "summon",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_009_battlegroundsImage.png",
+    "source_filename": "BG25_009_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG25_010",
+    "name": "断手被遗忘者",
+    "tier": 3,
+    "attack": 2,
+    "health": 1,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "亡语：召唤一只2/1并具有复生的手。",
+    "tags": [
+      "deathrattle",
+      "reborn",
+      "summon",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_010_battlegroundsImage.png",
+    "source_filename": "BG25_010_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG25_011",
+    "name": "死亡群居蛛魔",
+    "tier": 2,
+    "attack": 1,
+    "health": 4,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "战吼：在本局对战中，你的亡灵拥有+1攻击力（无论它们在哪）。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_011_battlegroundsImage.png",
+    "source_filename": "BG25_011_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG25_013",
+    "name": "腐皮豺狼人",
+    "tier": 1,
+    "attack": 1,
+    "health": 4,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "在本场战斗中，每有一个友方随从死亡，便拥有+1攻击力。",
+    "tags": [
+      "buff",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_013_battlegroundsImage.png",
+    "source_filename": "BG25_013_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG25_016",
+    "name": "辛多雷直射手",
+    "tier": 4,
+    "attack": 3,
+    "health": 4,
+    "tribes": [],
+    "text": "风怒，圣盾。进击：移除目标的复生和嘲讽。",
+    "tags": [
+      "divine_shield",
+      "reborn",
+      "taunt",
+      "windfury"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_016_battlegroundsImage.png",
+    "source_filename": "BG25_016_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG25_022",
+    "name": "血色骷髅",
+    "tier": 2,
+    "attack": 2,
+    "health": 1,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "复生。亡语：使一个友方亡灵获得+1/+2。",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "reborn",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_022_battlegroundsImage.png",
+    "source_filename": "BG25_022_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG25_032",
+    "name": "佩吉·斯特迪伯",
+    "tier": 3,
+    "attack": 2,
+    "health": 1,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "每当一张卡牌被置入你的手牌，使另一个友方海盗获得+2/+1。",
+    "tags": [
+      "buff",
+      "scaling",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_032_battlegroundsImage.png",
+    "source_filename": "BG25_032_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG25_034",
+    "name": "杉德尔船长",
+    "tier": 7,
+    "attack": 9,
+    "health": 9,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "战吼：使一个等级6或以下的友方随从变为金色。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_034_battlegroundsImage.png",
+    "source_filename": "BG25_034_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG25_039",
+    "name": "刺豚野猪",
+    "tier": 3,
+    "attack": 2,
+    "health": 6,
+    "tribes": [
+      "野猪人",
+      "纳迦"
+    ],
+    "text": "每当法术被施放在本随从身上，直到下个回合，获得烈毒。",
+    "tags": [
+      "scaling",
+      "spell",
+      "tribe:纳迦",
+      "tribe:野猪人",
+      "venomous"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_039_battlegroundsImage.png",
+    "source_filename": "BG25_039_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG25_041",
+    "name": "邪能元素",
+    "tier": 3,
+    "attack": 3,
+    "health": 3,
+    "tribes": [
+      "元素",
+      "恶魔"
+    ],
+    "text": "战吼：使酒馆中的随从在本局对战中获得+2/+1。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "tribe:元素",
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_041_battlegroundsImage.png",
+    "source_filename": "BG25_041_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG25_354",
+    "name": "提图斯·瑞文戴尔",
+    "tier": 5,
+    "attack": 1,
+    "health": 7,
+    "tribes": [],
+    "text": "你的亡语额外触发一次。",
+    "tags": [
+      "deathrattle"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_354_battlegroundsImage.png",
+    "source_filename": "BG25_354_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG25_806",
+    "name": "狡猾的迅猛龙",
+    "tier": 3,
+    "attack": 1,
+    "health": 3,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "亡语：随机召唤一只野兽，其属性值变为6/6。",
+    "tags": [
+      "deathrattle",
+      "summon",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_806_battlegroundsImage.png",
+    "source_filename": "BG25_806_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_135",
+    "name": "南海卖艺者",
+    "tier": 1,
+    "attack": 3,
+    "health": 1,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "战吼：下回合获得1枚铸币。",
+    "tags": [
+      "battlecry",
+      "economy",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_135_battlegroundsImage.png",
+    "source_filename": "BG26_135_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_137",
+    "name": "裁脍鱼人",
+    "tier": 4,
+    "attack": 6,
+    "health": 6,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "当本牌在你手牌中时，在你使用一张鱼人牌后，获得+6/+6。",
+    "tags": [
+      "buff",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_137.webp",
+    "source_filename": "BG26_137.webp",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_146",
+    "name": "催眠机器人",
+    "tier": 1,
+    "attack": 2,
+    "health": 2,
+    "tribes": [
+      "机械"
+    ],
+    "text": "磁力 在你的回合结束时，获得+1生命值。",
+    "tags": [
+      "buff",
+      "magnetic",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_146.webp",
+    "source_filename": "BG26_146.webp",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_147",
+    "name": "手风琴机器人",
+    "tier": 3,
+    "attack": 3,
+    "health": 3,
+    "tribes": [
+      "机械"
+    ],
+    "text": "磁力。在你的回合开始时，获得1枚铸币。",
+    "tags": [
+      "economy",
+      "magnetic",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_147_battlegroundsImage.png",
+    "source_filename": "BG26_147_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_148",
+    "name": "报废废铁回收机",
+    "tier": 5,
+    "attack": 6,
+    "health": 5,
+    "tribes": [
+      "机械"
+    ],
+    "text": "亡语：随机获取一张磁力机械牌。",
+    "tags": [
+      "deathrattle",
+      "magnetic",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_148_battlegroundsImage.png",
+    "source_filename": "BG26_148_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_149",
+    "name": "极性B-Box拳手",
+    "tier": 7,
+    "attack": 5,
+    "health": 10,
+    "tribes": [
+      "机械"
+    ],
+    "text": "每当你对一个不同的随从磁力吸附时，还会对本随从磁力吸附。",
+    "tags": [
+      "magnetic",
+      "scaling",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_149_battlegroundsImage.png",
+    "source_filename": "BG26_149_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_157",
+    "name": "作曲鬃师",
+    "tier": 6,
+    "attack": 3,
+    "health": 10,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "复仇（2）：本随从对你的所有野猪人各使用2张鲜血宝石。",
+    "tags": [
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_157_battlegroundsImage.png",
+    "source_filename": "BG26_157_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_159",
+    "name": "暗膘爵士乐手",
+    "tier": 2,
+    "attack": 2,
+    "health": 3,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "战吼：在本局对战中，你的鲜血宝石会额外获得+1生命值。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "scaling",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_159.webp",
+    "source_filename": "BG26_159.webp",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_160",
+    "name": "刺头吹笛人",
+    "tier": 3,
+    "attack": 5,
+    "health": 1,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "亡语：在本局对战中，你的鲜血宝石会额外获得+1攻击力。",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "scaling",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_160_battlegroundsImage.png",
+    "source_filename": "BG26_160_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_162",
+    "name": "农场热舞旋风",
+    "tier": 5,
+    "attack": 4,
+    "health": 4,
+    "tribes": [
+      "元素"
+    ],
+    "text": "战吼，亡语：使酒馆中的元素在本局对战中获得+8/+8。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "deathrattle",
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_162_battlegroundsImage.png",
+    "source_filename": "BG26_162_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_174",
+    "name": "灵魂回溯者",
+    "tier": 2,
+    "attack": 4,
+    "health": 1,
+    "tribes": [
+      "恶魔"
+    ],
+    "text": "在你的英雄 受到伤害后，回溯该伤害并使本随从获得 +1生命值。",
+    "tags": [
+      "buff",
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_174_battlegroundsImage.png",
+    "source_filename": "BG26_174_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_175",
+    "name": "惊喜元素",
+    "tier": 6,
+    "attack": 8,
+    "health": 8,
+    "tribes": [
+      "元素"
+    ],
+    "text": "圣盾。可以与任意元素三连。",
+    "tags": [
+      "divine_shield",
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_175_battlegroundsImage.png",
+    "source_filename": "BG26_175_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_199",
+    "name": "蓄势二重唱",
+    "tier": 5,
+    "attack": 6,
+    "health": 6,
+    "tribes": [],
+    "text": "每2个回合，在回合结束时，获取一张本随从左边随从的原始版复制。（还剩2回合！）2每2个回合，在回合结束时，获取一张本随从左边随从的原始版复制。（就是这回合！）",
+    "tags": [],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_199_battlegroundsImage.png",
+    "source_filename": "BG26_199_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_354",
+    "name": "合唱鱼人",
+    "tier": 6,
+    "attack": 6,
+    "health": 6,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "战斗开始时：获得你手牌中所有随从牌的属性值。",
+    "tags": [
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_354_battlegroundsImage.png",
+    "source_filename": "BG26_354_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_360",
+    "name": "寻宝鱼人",
+    "tier": 3,
+    "attack": 4,
+    "health": 3,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "亡语：随机使你手牌中的一张随从牌获得+7/+7。",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_360_battlegroundsImage.png",
+    "source_filename": "BG26_360_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_501",
+    "name": "疾涛吉他手",
+    "tier": 2,
+    "attack": 3,
+    "health": 2,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "塑造法术：直到下个回合，使一个随从获得等同于你当前等级的属性值。",
+    "tags": [
+      "buff",
+      "spell",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_501_battlegroundsImage.png",
+    "source_filename": "BG26_501_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_502",
+    "name": "深沉蓝调歌手",
+    "tier": 3,
+    "attack": 2,
+    "health": 2,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "塑造法术：直到下个回合，使一个随从获得+2/+2。提升你此后的深沉蓝调效果。",
+    "tags": [
+      "buff",
+      "spell",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_502_battlegroundsImage.png",
+    "source_filename": "BG26_502_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_505",
+    "name": "热情沙锤手",
+    "tier": 4,
+    "attack": 6,
+    "health": 7,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "每回合一次：当塑造法术的法术被用于本随从时，获取它的一张新复制。",
+    "tags": [
+      "scaling",
+      "spell",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_505_battlegroundsImage.png",
+    "source_filename": "BG26_505_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_524",
+    "name": "舞蹈王子玛克扎尔",
+    "tier": 3,
+    "attack": 2,
+    "health": 1,
+    "tribes": [
+      "恶魔"
+    ],
+    "text": "每回合中，有两次刷新会消耗生命值，而非铸币。（还剩2次！）",
+    "tags": [
+      "economy",
+      "scaling",
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_524_battlegroundsImage.png",
+    "source_filename": "BG26_524_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_525",
+    "name": "奇瑰打击乐手",
+    "tier": 4,
+    "attack": 4,
+    "health": 4,
+    "tribes": [
+      "恶魔"
+    ],
+    "text": "战吼： 发现一张恶魔牌，对你的英雄造成等同于其等级的伤害。",
+    "tags": [
+      "battlecry",
+      "discover",
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_525_battlegroundsImage.png",
+    "source_filename": "BG26_525_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_529",
+    "name": "蓄势主唱幼龙",
+    "tier": 1,
+    "attack": 1,
+    "health": 1,
+    "tribes": [
+      "龙"
+    ],
+    "text": "每3个回合，在回合结束时，随机获取一张龙牌。（还剩3回合！）3每3个回合，在回合结束时，随机获取一张龙牌。（就是这回合！）",
+    "tags": [
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_529_battlegroundsImage.png",
+    "source_filename": "BG26_529_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_801",
+    "name": "重金属双头飞龙",
+    "tier": 4,
+    "attack": 5,
+    "health": 3,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "嘲讽。亡语：触发一个相邻随从的战吼。",
+    "tags": [
+      "battlecry",
+      "deathrattle",
+      "taunt",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_801_battlegroundsImage.png",
+    "source_filename": "BG26_801_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_802",
+    "name": "香蕉猛猿",
+    "tier": 4,
+    "attack": 3,
+    "health": 6,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "在战斗中，在你召唤一只野兽后，使其攻击力翻倍。",
+    "tags": [
+      "summon",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_802_battlegroundsImage.png",
+    "source_filename": "BG26_802_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_805",
+    "name": "哼鸣蜂鸟",
+    "tier": 2,
+    "attack": 1,
+    "health": 4,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "战斗开始时：在本场战斗的剩余时间内，你的野兽拥有+1攻击力。",
+    "tags": [
+      "buff",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_805_battlegroundsImage.png",
+    "source_filename": "BG26_805_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_810",
+    "name": "火药运输工",
+    "tier": 3,
+    "attack": 3,
+    "health": 6,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "每当你花掉 6枚铸币，使你的海盗获得+2攻击力。（还剩6枚！）6每当你花掉6枚铸币，使你的海盗获得+2/+0。（还剩6枚！）",
+    "tags": [
+      "buff",
+      "economy",
+      "scaling",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_810_battlegroundsImage.png",
+    "source_filename": "BG26_810_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_814",
+    "name": "苦情民谣歌手",
+    "tier": 4,
+    "attack": 3,
+    "health": 2,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "战吼：使一个海盗获得+1生命值。（在本回合中你每花费一枚铸币都会提升！）",
+    "tags": [
+      "battlecry",
+      "buff",
+      "economy",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_814_battlegroundsImage.png",
+    "source_filename": "BG26_814_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_817",
+    "name": "刀剑收藏家",
+    "tier": 4,
+    "attack": 3,
+    "health": 2,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "同时对其攻击目标相邻的随从造成伤害。",
+    "tags": [
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_817_battlegroundsImage.png",
+    "source_filename": "BG26_817_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_867",
+    "name": "三只小野猪",
+    "tier": 5,
+    "attack": 3,
+    "health": 3,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "亡语：本随从对你的所有野猪人各使用3张鲜血宝石。",
+    "tags": [
+      "deathrattle",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_867_battlegroundsImage.png",
+    "source_filename": "BG26_867_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG26_ICC_901",
+    "name": "达卡莱附魔师",
+    "tier": 5,
+    "attack": 1,
+    "health": 5,
+    "tribes": [],
+    "text": "你的回合结束效果会触发两次。",
+    "tags": [],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_ICC_901_battlegroundsImage.png",
+    "source_filename": "BG26_ICC_901_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG27_002",
+    "name": "软泥角斗士",
+    "tier": 2,
+    "attack": 2,
+    "health": 2,
+    "tribes": [],
+    "text": "战吼：获取两张可以使随从获得+1/+1和嘲讽的黏黏盾。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "taunt"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG27_002_battlegroundsImage.png",
+    "source_filename": "BG27_002_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG27_004",
+    "name": "海上双雄",
+    "tier": 1,
+    "attack": 1,
+    "health": 1,
+    "tribes": [
+      "纳迦",
+      "野兽"
+    ],
+    "text": "塑造法术：直到下个回合，使一个随从获得“亡语：召唤一只3/2的螃蟹”。",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "spell",
+      "summon",
+      "tribe:纳迦",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG27_004_battlegroundsImage.png",
+    "source_filename": "BG27_004_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG27_005",
+    "name": "时空船长钩尾",
+    "tier": 3,
+    "attack": 1,
+    "health": 4,
+    "tribes": [
+      "龙",
+      "海盗"
+    ],
+    "text": "每当你施放一个酒馆法术，使你的随从获得+1攻击力。1每当你施放一个酒馆法术，使你的随从获得+1/+0。",
+    "tags": [
+      "buff",
+      "scaling",
+      "spell",
+      "tavern_spell",
+      "tribe:海盗",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG27_005_battlegroundsImage.png",
+    "source_filename": "BG27_005_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG27_016",
+    "name": "萨格拉斯的勇士",
+    "tier": 7,
+    "attack": 10,
+    "health": 10,
+    "tribes": [
+      "恶魔"
+    ],
+    "text": "战吼，亡语：在本局对战中，酒馆中的随从拥有+5/+5。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "deathrattle",
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG27_016_battlegroundsImage.png",
+    "source_filename": "BG27_016_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG27_017",
+    "name": "黑曜石掠夺者",
+    "tier": 7,
+    "attack": 7,
+    "health": 7,
+    "tribes": [
+      "龙"
+    ],
+    "text": "进击：对目标及一个相邻的随从造成等同于本随从攻击力的伤害。",
+    "tags": [
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG27_017_battlegroundsImage.png",
+    "source_filename": "BG27_017_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG27_084",
+    "name": "机变甲虫",
+    "tier": 3,
+    "attack": 3,
+    "health": 1,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "抉择：使一只野兽获得+1/+1和复生；或者+4攻击力和风怒。",
+    "tags": [
+      "buff",
+      "reborn",
+      "tribe:野兽",
+      "windfury"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG27_084_battlegroundsImage.png",
+    "source_filename": "BG27_084_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG27_514",
+    "name": "海巫扎尔吉拉",
+    "tier": 7,
+    "attack": 4,
+    "health": 5,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "塑造法术：选择酒馆中一个不同的随从，获取一张复制。",
+    "tags": [
+      "spell",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG27_514_battlegroundsImage.png",
+    "source_filename": "BG27_514_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG27_556",
+    "name": "凶饿的觅食者",
+    "tier": 4,
+    "attack": 5,
+    "health": 6,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "战斗开始时：当你有空位时，召唤你手牌中攻击力最高的鱼人，其登场仅限本场战斗。",
+    "tags": [
+      "summon",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG27_556_battlegroundsImage.png",
+    "source_filename": "BG27_556_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG28_300",
+    "name": "无害的骨颅",
+    "tier": 1,
+    "attack": 1,
+    "health": 1,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "亡语：召唤两个1/1的骷髅。",
+    "tags": [
+      "deathrattle",
+      "summon",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG28_300_battlegroundsImage.png",
+    "source_filename": "BG28_300_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG28_303",
+    "name": "变装盗墓贼",
+    "tier": 3,
+    "attack": 4,
+    "health": 4,
+    "tribes": [],
+    "text": "战吼：消灭一个友方亡灵以获取一张它的原始版复制。",
+    "tags": [
+      "battlecry"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG28_303_battlegroundsImage.png",
+    "source_filename": "BG28_303_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG28_308",
+    "name": "大巫妖克尔苏加德",
+    "tier": 5,
+    "attack": 10,
+    "health": 8,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "在你的回合结束时，消灭本随从左侧的亡灵并再次召唤完全相同的复制。",
+    "tags": [
+      "summon",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG28_308_battlegroundsImage.png",
+    "source_filename": "BG28_308_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG28_309",
+    "name": "木乃伊工匠",
+    "tier": 3,
+    "attack": 5,
+    "health": 2,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "亡语：使一个不同的友方亡灵获得复生。",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "reborn",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG28_309_battlegroundsImage.png",
+    "source_filename": "BG28_309_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG28_550",
+    "name": "竞技表演者",
+    "tier": 5,
+    "attack": 3,
+    "health": 4,
+    "tribes": [],
+    "text": "战吼：发现一张酒馆法术牌。",
+    "tags": [
+      "battlecry",
+      "discover",
+      "spell",
+      "tavern_spell"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG28_550_battlegroundsImage.png",
+    "source_filename": "BG28_550_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG28_551",
+    "name": "救赎者娜拉",
+    "tier": 5,
+    "attack": 5,
+    "health": 6,
+    "tribes": [],
+    "text": "每当你施放一个酒馆法术，使每个类型的各一个友方随从获得+4/+3。",
+    "tags": [
+      "buff",
+      "scaling",
+      "spell",
+      "tavern_spell"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG28_551_battlegroundsImage.png",
+    "source_filename": "BG28_551_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG28_583",
+    "name": "地卜大师鲁古格",
+    "tier": 4,
+    "attack": 4,
+    "health": 6,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "圣盾。每当一张鲜血宝石被用于本随从时，本随从对一个不同的友方随从使用一张鲜血宝石。",
+    "tags": [
+      "divine_shield",
+      "scaling",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG28_583_battlegroundsImage.png",
+    "source_filename": "BG28_583_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG28_595",
+    "name": "生火专家",
+    "tier": 6,
+    "attack": 8,
+    "health": 8,
+    "tribes": [
+      "龙"
+    ],
+    "text": "在你的回合结束时，随机获取2张 酒馆法术牌。",
+    "tags": [
+      "spell",
+      "tavern_spell",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG28_595_battlegroundsImage.png",
+    "source_filename": "BG28_595_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG28_633",
+    "name": "邪能野猪人",
+    "tier": 5,
+    "attack": 2,
+    "health": 6,
+    "tribes": [
+      "恶魔",
+      "野猪人"
+    ],
+    "text": "在你施放3个法术后，吞食酒馆中的一个随从，获得其属性值。（还剩3个！）",
+    "tags": [
+      "spell",
+      "tribe:恶魔",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG28_633_battlegroundsImage.png",
+    "source_filename": "BG28_633_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG28_741",
+    "name": "蓄能女沙皇",
+    "tier": 5,
+    "attack": 4,
+    "health": 1,
+    "tribes": [
+      "机械"
+    ],
+    "text": "圣盾。每当你施放一个酒馆法术时，使你具有圣盾的随从获得+4攻击力。",
+    "tags": [
+      "buff",
+      "divine_shield",
+      "scaling",
+      "spell",
+      "tavern_spell",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG28_741_battlegroundsImage.png",
+    "source_filename": "BG28_741_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG29_300",
+    "name": "巨饿冬鳍鱼人",
+    "tier": 2,
+    "attack": 2,
+    "health": 5,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "嘲讽。每当本随从受到伤害，使你手牌中的一张随从牌获得+2/+1。",
+    "tags": [
+      "buff",
+      "scaling",
+      "taunt",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_300_battlegroundsImage.png",
+    "source_filename": "BG29_300_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG29_503",
+    "name": "废铁残械",
+    "tier": 4,
+    "attack": 3,
+    "health": 4,
+    "tribes": [
+      "机械"
+    ],
+    "text": "战吼：选择一个友方机械，发现一个机械以对其磁力吸附。",
+    "tags": [
+      "battlecry",
+      "discover",
+      "magnetic",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_503_battlegroundsImage.png",
+    "source_filename": "BG29_503_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG29_611",
+    "name": "拔线机",
+    "tier": 1,
+    "attack": 1,
+    "health": 1,
+    "tribes": [
+      "机械"
+    ],
+    "text": "圣盾。亡语：召唤一个1/1的微型机器人。",
+    "tags": [
+      "deathrattle",
+      "divine_shield",
+      "summon",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_611_battlegroundsImage.png",
+    "source_filename": "BG29_611_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG29_806",
+    "name": "炫彩灼天者",
+    "tier": 5,
+    "attack": 3,
+    "health": 8,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "每当一只友方野兽受到伤害时，使该受伤野兽之外的一只友方野兽永久获得+3/+2。",
+    "tags": [
+      "buff",
+      "scaling",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_806_battlegroundsImage.png",
+    "source_filename": "BG29_806_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG29_807",
+    "name": "鞭笞者特里高雷",
+    "tier": 4,
+    "attack": 9,
+    "health": 3,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "每当另一只友方野兽受到伤害时，永久获得+2生命值。",
+    "tags": [
+      "buff",
+      "scaling",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_807_battlegroundsImage.png",
+    "source_filename": "BG29_807_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG29_808",
+    "name": "尖角救星",
+    "tier": 5,
+    "attack": 8,
+    "health": 2,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "嘲讽。复生 亡语：使你的随从获得+1生命值并对其造成1点伤害。",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "reborn",
+      "taunt",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_808_battlegroundsImage.png",
+    "source_filename": "BG29_808_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG29_813",
+    "name": "执念诗心龙",
+    "tier": 4,
+    "attack": 2,
+    "health": 3,
+    "tribes": [
+      "龙"
+    ],
+    "text": "圣盾。相邻的龙可永久保留战斗阶段获得的额外关键词和属性值。",
+    "tags": [
+      "divine_shield",
+      "scaling",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_813_battlegroundsImage.png",
+    "source_filename": "BG29_813_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG29_816",
+    "name": "咆哮募兵龙",
+    "tier": 3,
+    "attack": 2,
+    "health": 8,
+    "tribes": [
+      "龙"
+    ],
+    "text": "每当另一条友方的龙攻击时，使其获得+3/+1。",
+    "tags": [
+      "buff",
+      "scaling",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_816_battlegroundsImage.png",
+    "source_filename": "BG29_816_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG29_840",
+    "name": "噬月者的勇士",
+    "tier": 5,
+    "attack": 5,
+    "health": 5,
+    "tribes": [],
+    "text": "在你使用奇数等级的牌后，使你的奇数等级的随从获得+1/+1。",
+    "tags": [
+      "buff"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_840_battlegroundsImage.png",
+    "source_filename": "BG29_840_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG29_841",
+    "name": "格雷迈恩的勇士",
+    "tier": 6,
+    "attack": 4,
+    "health": 4,
+    "tribes": [],
+    "text": "在你使用偶数等级的牌后，使你的偶数等级的随从获得+2/+2。",
+    "tags": [
+      "buff"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_841_battlegroundsImage.png",
+    "source_filename": "BG29_841_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG29_862",
+    "name": "贫瘠之地咒术师",
+    "tier": 5,
+    "attack": 6,
+    "health": 2,
+    "tribes": [],
+    "text": "亡语：随机获取一张战吼随从牌。",
+    "tags": [
+      "battlecry",
+      "deathrattle"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_862_battlegroundsImage.png",
+    "source_filename": "BG29_862_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG30_117",
+    "name": "火山访客",
+    "tier": 4,
+    "attack": 4,
+    "health": 4,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "塑造法术： 抉择：使你的随从获得+4攻击力；或者+4生命值。",
+    "tags": [
+      "buff",
+      "spell",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG30_117_battlegroundsImage.png",
+    "source_filename": "BG30_117_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG30_121",
+    "name": "热气球测绘员",
+    "tier": 4,
+    "attack": 3,
+    "health": 7,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "从你手牌中使用 的鲜血宝石会额外施放一次。",
+    "tags": [
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG30_121.webp",
+    "source_filename": "BG30_121.webp",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG30_122",
+    "name": "鱼人蟊贼",
+    "tier": 5,
+    "attack": 10,
+    "health": 10,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "在你使用一张鱼人牌后，使一个友方随从和你手牌中的一张随从牌获得+5/+5。",
+    "tags": [
+      "buff",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG30_122_battlegroundsImage.png",
+    "source_filename": "BG30_122_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG30_123",
+    "name": "无畏的食客",
+    "tier": 4,
+    "attack": 2,
+    "health": 4,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "抉择：在本局对战中，你的鲜血宝石使随从额外获得+1/+1；或者获取4张鲜血宝石。",
+    "tags": [
+      "buff",
+      "scaling",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG30_123_battlegroundsImage.png",
+    "source_filename": "BG30_123_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG30_125",
+    "name": "遗骸看管者",
+    "tier": 3,
+    "attack": 3,
+    "health": 3,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "亡语：召唤三个1/1的骷髅。",
+    "tags": [
+      "deathrattle",
+      "summon",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG30_125_battlegroundsImage.png",
+    "source_filename": "BG30_125_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG30_129",
+    "name": "古墓捣蛋鬼",
+    "tier": 5,
+    "attack": 4,
+    "health": 10,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "每当你即将召唤随从且你的战队放不下时，使你的随从永久获得+2/+2。",
+    "tags": [
+      "buff",
+      "scaling",
+      "summon",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG30_129_battlegroundsImage.png",
+    "source_filename": "BG30_129_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_035",
+    "name": "碎地者",
+    "tier": 6,
+    "attack": 5,
+    "health": 4,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "在你使用一张纳迦牌后，获得+1/+1。（在本局对战中，你每施放4个法术都会提升！）4在你使用一张纳迦牌后，获得+1/+1。（施放0/4个法术即可提升！）",
+    "tags": [
+      "buff",
+      "spell",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_035_battlegroundsImage.png",
+    "source_filename": "BG31_035_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_171",
+    "name": "月铁毁灭战舰",
+    "tier": 6,
+    "attack": 8,
+    "health": 8,
+    "tribes": [
+      "机械"
+    ],
+    "text": "在你的回合结束时，获取两张6/6的磁力卫星并提升此效果。",
+    "tags": [
+      "magnetic",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_171_battlegroundsImage.png",
+    "source_filename": "BG31_171_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_175",
+    "name": "移动投影仪",
+    "tier": 5,
+    "attack": 4,
+    "health": 6,
+    "tribes": [
+      "机械"
+    ],
+    "text": "圣盾。进击：随机获取一张磁力机械牌。",
+    "tags": [
+      "divine_shield",
+      "magnetic",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_175.webp",
+    "source_filename": "BG31_175.webp",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_178",
+    "name": "招牌计时机",
+    "tier": 4,
+    "attack": 3,
+    "health": 7,
+    "tribes": [
+      "机械"
+    ],
+    "text": "在你的回合结束时，随机获取一张酒馆法术牌。",
+    "tags": [
+      "spell",
+      "tavern_spell",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_178_battlegroundsImage.png",
+    "source_filename": "BG31_178_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_330",
+    "name": "厄运先知",
+    "tier": 1,
+    "attack": 2,
+    "health": 1,
+    "tribes": [
+      "恶魔",
+      "纳迦"
+    ],
+    "text": "战吼：你购买的下一张酒馆法术牌消耗的铸币减少（1）枚。",
+    "tags": [
+      "battlecry",
+      "economy",
+      "spell",
+      "tavern_spell",
+      "tribe:恶魔",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_330_battlegroundsImage.png",
+    "source_filename": "BG31_330_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_801",
+    "name": "森林游虫",
+    "tier": 2,
+    "attack": 1,
+    "health": 1,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "战吼：在本局对战中，你的甲虫拥有+2/+1。 亡语：召唤一只2/2的甲虫。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "deathrattle",
+      "summon",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_801_battlegroundsImage.png",
+    "source_filename": "BG31_801_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_803",
+    "name": "嗡鸣害虫",
+    "tier": 1,
+    "attack": 1,
+    "health": 1,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "嘲讽。亡语：召唤一只2/2的甲虫。",
+    "tags": [
+      "deathrattle",
+      "summon",
+      "taunt",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_803_battlegroundsImage.png",
+    "source_filename": "BG31_803_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_809",
+    "name": "绿松石飞掠虫",
+    "tier": 5,
+    "attack": 5,
+    "health": 5,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "亡语：在本局 对战中，你的甲虫拥有+5/+5。召唤一只2/2的甲虫。",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "summon",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_809_battlegroundsImage.png",
+    "source_filename": "BG31_809_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_815",
+    "name": "沙丘土著",
+    "tier": 1,
+    "attack": 3,
+    "health": 2,
+    "tribes": [
+      "元素"
+    ],
+    "text": "战吼：使酒馆中的元素在本局对战中获得+1/+1。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_815_battlegroundsImage.png",
+    "source_filename": "BG31_815_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_816",
+    "name": "火焰投球手",
+    "tier": 2,
+    "attack": 4,
+    "health": 3,
+    "tribes": [
+      "元素"
+    ],
+    "text": "当你出售本随从时，使你的随从获得+1攻击力。提升你此后投球手的效果。1当你出售本随从时，使你的随从获得+1/+0。提升你此后投球手的效果。",
+    "tags": [
+      "buff",
+      "economy",
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_816_battlegroundsImage.png",
+    "source_filename": "BG31_816_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_818",
+    "name": "冰雪投球手",
+    "tier": 2,
+    "attack": 3,
+    "health": 4,
+    "tribes": [
+      "元素"
+    ],
+    "text": "当你出售本随从时，使你的随从获得+1生命值。提升你此后投球手的效果。0当你出售本随从时，使你的随从获得+0/+1。提升你此后投球手的效果。",
+    "tags": [
+      "buff",
+      "economy",
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_818_battlegroundsImage.png",
+    "source_filename": "BG31_818_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_820",
+    "name": "空间眺望者",
+    "tier": 6,
+    "attack": 3,
+    "health": 6,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "每当另一个友方海盗获得攻击力时，获得+2生命值。",
+    "tags": [
+      "buff",
+      "scaling",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_820_battlegroundsImage.png",
+    "source_filename": "BG31_820_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_824",
+    "name": "双持海盗",
+    "tier": 4,
+    "attack": 3,
+    "health": 4,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "每当你花掉5枚铸币，使两个友方海盗 获得+3/+4。 （还剩5枚！）",
+    "tags": [
+      "buff",
+      "economy",
+      "scaling",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_824_battlegroundsImage.png",
+    "source_filename": "BG31_824_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_835",
+    "name": "致命打击者",
+    "tier": 6,
+    "attack": 8,
+    "health": 8,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "复仇（4）：随机获取一张亡灵牌。亡语：从你的手牌中召唤它，其登场仅限本场战斗。",
+    "tags": [
+      "deathrattle",
+      "summon",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_835_battlegroundsImage.png",
+    "source_filename": "BG31_835_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_859",
+    "name": "科技元素体",
+    "tier": 3,
+    "attack": 5,
+    "health": 6,
+    "tribes": [
+      "元素",
+      "机械"
+    ],
+    "text": "磁力。可以磁力吸附在机械和元素上。",
+    "tags": [
+      "magnetic",
+      "tribe:元素",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_859_battlegroundsImage.png",
+    "source_filename": "BG31_859_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_920",
+    "name": "暗潮战略专家",
+    "tier": 5,
+    "attack": 4,
+    "health": 5,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "塑造法术：随机获取一张等级1的纳迦牌。（每回合都会提升！）",
+    "tags": [
+      "scaling",
+      "spell",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_920.webp",
+    "source_filename": "BG31_920.webp",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG31_999",
+    "name": "缝合回收者",
+    "tier": 7,
+    "attack": 16,
+    "health": 4,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "战斗开始时：消灭本随从左边的随从。亡语：召唤被消灭随从的完全相同的复制。（缝合回收者除外。）",
+    "tags": [
+      "deathrattle",
+      "summon",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_999_battlegroundsImage.png",
+    "source_filename": "BG31_999_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_170",
+    "name": "钢铁猎人",
+    "tier": 2,
+    "attack": 4,
+    "health": 2,
+    "tribes": [
+      "机械"
+    ],
+    "text": "亡语：获取一张尖利箭矢。",
+    "tags": [
+      "deathrattle",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_170_battlegroundsImage.png",
+    "source_filename": "BG32_170_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_172",
+    "name": "自动装配机",
+    "tier": 4,
+    "attack": 2,
+    "health": 2,
+    "tribes": [
+      "机械"
+    ],
+    "text": "磁力。亡语：召唤一个星元自动机。",
+    "tags": [
+      "deathrattle",
+      "magnetic",
+      "summon",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_172_battlegroundsImage.png",
+    "source_filename": "BG32_172_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_204",
+    "name": "丝柔烁光蛾",
+    "tier": 6,
+    "attack": 3,
+    "health": 12,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "每当本随从受到伤害，在本局对战中，你的甲虫拥有+2/+1。亡语：召唤一只2/2的甲虫。",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "scaling",
+      "summon",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_204_battlegroundsImage.png",
+    "source_filename": "BG32_204_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_234",
+    "name": "卑鄙的德鲁斯特",
+    "tier": 6,
+    "attack": 5,
+    "health": 4,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "每当你获取一张海盗牌，使你的随从获得+2/+2，金色随从改为+6/+6。",
+    "tags": [
+      "buff",
+      "scaling",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_234_battlegroundsImage.png",
+    "source_filename": "BG32_234_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_235",
+    "name": "冲浪的希尔梵",
+    "tier": 2,
+    "attack": 1,
+    "health": 2,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "在你的回合结束时，使相邻的随从获得+1攻击力。每有一个友方金色随从，重复一次。1在你的回合结束时，使相邻的随从获得+1/+0。每有一个友方金色随从，重复一次。",
+    "tags": [
+      "buff",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_235_battlegroundsImage.png",
+    "source_filename": "BG32_235_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_236",
+    "name": "夺金健将",
+    "tier": 1,
+    "attack": 1,
+    "health": 1,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "圣盾。战吼：使本随从变为金色。",
+    "tags": [
+      "battlecry",
+      "divine_shield",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_236_battlegroundsImage.png",
+    "source_filename": "BG32_236_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_237",
+    "name": "新锐植物学家",
+    "tier": 2,
+    "attack": 3,
+    "health": 4,
+    "tribes": [],
+    "text": "抉择：在本局对战中，你的酒馆法术使随从额外获得+1攻击力；或者+1生命值。",
+    "tags": [
+      "buff",
+      "scaling",
+      "spell",
+      "tavern_spell"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_237_battlegroundsImage.png",
+    "source_filename": "BG32_237_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_330",
+    "name": "好斗的斥候",
+    "tier": 1,
+    "attack": 3,
+    "health": 3,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "战斗开始时：如果本随从在你的手牌中，召唤一个它的复制。",
+    "tags": [
+      "summon",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_330_battlegroundsImage.png",
+    "source_filename": "BG32_330_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_341",
+    "name": "胡蒙格斯",
+    "tier": 4,
+    "attack": 5,
+    "health": 5,
+    "tribes": [],
+    "text": "圣盾。你的酒馆法术使随从额外获得+1/+2。",
+    "tags": [
+      "buff",
+      "divine_shield",
+      "scaling",
+      "spell",
+      "tavern_spell"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_341_battlegroundsImage.png",
+    "source_filename": "BG32_341_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_430",
+    "name": "亮喉督军",
+    "tier": 2,
+    "attack": 2,
+    "health": 2,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "亡语：召唤两个1/1并具有嘲讽的野猪人。本随从对其使用一张鲜血宝石。",
+    "tags": [
+      "deathrattle",
+      "summon",
+      "taunt",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_430_battlegroundsImage.png",
+    "source_filename": "BG32_430_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_433",
+    "name": "睡梦织棘者",
+    "tier": 4,
+    "attack": 2,
+    "health": 8,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "复仇（3）：在本局对战中，你的鲜血宝石使随从额外获得+1生命值。3复仇（3）：在本局对战中，你的鲜血宝石使随从额外获得+1攻击力。（下回合切换为生命值！）",
+    "tags": [
+      "buff",
+      "scaling",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_433_battlegroundsImage.png",
+    "source_filename": "BG32_433_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_822",
+    "name": "火铸唤魔师",
+    "tier": 6,
+    "attack": 8,
+    "health": 5,
+    "tribes": [
+      "龙"
+    ],
+    "text": "战斗开始时：使你的龙获得+2/+1。在你施放一个酒馆法术后永久提升此效果。",
+    "tags": [
+      "buff",
+      "scaling",
+      "spell",
+      "tavern_spell",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_822_battlegroundsImage.png",
+    "source_filename": "BG32_822_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_835",
+    "name": "宁静的冥想者",
+    "tier": 5,
+    "attack": 3,
+    "health": 8,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "塑造法术：在本局对战中，你的酒馆法术使随从额外获得+1/+1。",
+    "tags": [
+      "buff",
+      "scaling",
+      "spell",
+      "tavern_spell",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_835_battlegroundsImage.png",
+    "source_filename": "BG32_835_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_841",
+    "name": "沙尘旋流",
+    "tier": 4,
+    "attack": 5,
+    "health": 3,
+    "tribes": [
+      "元素"
+    ],
+    "text": "战吼：在本局对战中，你的元素使随从额外获得+1攻击力。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "scaling",
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_841_battlegroundsImage.png",
+    "source_filename": "BG32_841_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_842",
+    "name": "辐光余烬",
+    "tier": 3,
+    "attack": 3,
+    "health": 1,
+    "tribes": [
+      "元素"
+    ],
+    "text": "亡语：在本局对战中，你的元素使随从额外获得+1生命值。",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "scaling",
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_842_battlegroundsImage.png",
+    "source_filename": "BG32_842_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_846",
+    "name": "狂放的法力涌流",
+    "tier": 6,
+    "attack": 6,
+    "health": 5,
+    "tribes": [
+      "元素"
+    ],
+    "text": "在你使用一张元素牌后，使你的元素获得+4/+4。",
+    "tags": [
+      "buff",
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_846_battlegroundsImage.png",
+    "source_filename": "BG32_846_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG32_880",
+    "name": "友善的恶鬼",
+    "tier": 4,
+    "attack": 6,
+    "health": 3,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "亡语：在本局对战中，你酒馆法术使随从额外获得+1攻击力。",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "scaling",
+      "spell",
+      "tavern_spell",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_880_battlegroundsImage.png",
+    "source_filename": "BG32_880_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_140",
+    "name": "江河弹跳鱼",
+    "tier": 1,
+    "attack": 1,
+    "health": 1,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "当你出售本随从时，随机获取一张等级1的随从牌。",
+    "tags": [
+      "economy",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_140_battlegroundsImage.png",
+    "source_filename": "BG33_140_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_154",
+    "name": "废墟领主",
+    "tier": 6,
+    "attack": 5,
+    "health": 6,
+    "tribes": [
+      "恶魔"
+    ],
+    "text": "在一个友方恶魔造成伤害后，使其之外的友方随从获得+2/+1。",
+    "tags": [
+      "buff",
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_154_battlegroundsImage.png",
+    "source_filename": "BG33_154_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_155",
+    "name": "虔诚的萨特唤魔者",
+    "tier": 4,
+    "attack": 2,
+    "health": 2,
+    "tribes": [
+      "恶魔"
+    ],
+    "text": "在另一个友方恶魔造成伤害后，永久获得+1/+2。",
+    "tags": [
+      "buff",
+      "scaling",
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_155_battlegroundsImage.png",
+    "source_filename": "BG33_155_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_156",
+    "name": "沉默的惩罚者",
+    "tier": 4,
+    "attack": 6,
+    "health": 2,
+    "tribes": [
+      "恶魔"
+    ],
+    "text": "嘲讽。亡语：对所有随从造成2点伤害（友方恶魔除外）。",
+    "tags": [
+      "deathrattle",
+      "taunt",
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_156_battlegroundsImage.png",
+    "source_filename": "BG33_156_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_240",
+    "name": "魅惑之翼",
+    "tier": 6,
+    "attack": 3,
+    "health": 10,
+    "tribes": [
+      "龙"
+    ],
+    "text": "进击：使2条友方的龙获得本随从的生命值上限（魅惑之翼除外）。",
+    "tags": [
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_240_battlegroundsImage.png",
+    "source_filename": "BG33_240_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_241",
+    "name": "贪睡的援护巨龙",
+    "tier": 2,
+    "attack": 4,
+    "health": 3,
+    "tribes": [
+      "龙"
+    ],
+    "text": "进击：使本随从右边的随从获得+2/+2。",
+    "tags": [
+      "buff",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_241_battlegroundsImage.png",
+    "source_filename": "BG33_241_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_319",
+    "name": "霜鳞女祭司",
+    "tier": 4,
+    "attack": 3,
+    "health": 3,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "塑造法术：随机获取一张能使随从获得属性值的酒馆法术牌。",
+    "tags": [
+      "spell",
+      "tavern_spell",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_319_battlegroundsImage.png",
+    "source_filename": "BG33_319_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_323",
+    "name": "尘骨毁灭者",
+    "tier": 3,
+    "attack": 1,
+    "health": 6,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "进击： 在本局对战中，你的亡灵拥有+2攻击力（无论它们在哪）。",
+    "tags": [
+      "buff",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_323.webp",
+    "source_filename": "BG33_323.webp",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_820",
+    "name": "失落之城掠夺者",
+    "tier": 3,
+    "attack": 1,
+    "health": 1,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "嘲讽。在你的回合结束时，随机获取一张悬赏令。",
+    "tags": [
+      "taunt",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_820_battlegroundsImage.png",
+    "source_filename": "BG33_820_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_822",
+    "name": "顶尖大盗",
+    "tier": 4,
+    "attack": 4,
+    "health": 6,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "进击：随机获取一张悬赏令。",
+    "tags": [
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_822_battlegroundsImage.png",
+    "source_filename": "BG33_822_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_823",
+    "name": "空军上将罗杰斯",
+    "tier": 6,
+    "attack": 4,
+    "health": 5,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "在你花掉9枚铸币后，随机获取一张悬赏令。（还剩9枚！）",
+    "tags": [
+      "economy",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_823_battlegroundsImage.png",
+    "source_filename": "BG33_823_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_891",
+    "name": "魔鳍真菌学家",
+    "tier": 6,
+    "attack": 4,
+    "health": 8,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "每回合一次。在你购买一个酒馆法术后，获取一张1/1的鱼人并教会它该法术。（还剩1次！）",
+    "tags": [
+      "scaling",
+      "spell",
+      "tavern_spell",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_891_battlegroundsImage.png",
+    "source_filename": "BG33_891_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_893",
+    "name": "原始鱼人画家",
+    "tier": 6,
+    "attack": 2,
+    "health": 7,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "在你使用一张等级3或以下的牌后，使你的鱼人获得+2/+2。",
+    "tags": [
+      "buff",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_893.webp",
+    "source_filename": "BG33_893.webp",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_894",
+    "name": "寒光潜水鱼人",
+    "tier": 3,
+    "attack": 1,
+    "health": 1,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "战吼，亡语：随机获取一张等级1的酒馆法术牌。",
+    "tags": [
+      "battlecry",
+      "deathrattle",
+      "spell",
+      "tavern_spell",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_894_battlegroundsImage.png",
+    "source_filename": "BG33_894_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_920",
+    "name": "怒鳞潜行者",
+    "tier": 6,
+    "attack": 3,
+    "health": 6,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "在另一个友方纳迦获得生命值后，使其获得等量的攻击力。",
+    "tags": [
+      "buff",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_920_battlegroundsImage.png",
+    "source_filename": "BG33_920_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG33_923",
+    "name": "破碎主母",
+    "tier": 6,
+    "attack": 7,
+    "health": 4,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "每当你施放一个法术，使你的随从获得+3生命值。",
+    "tags": [
+      "buff",
+      "scaling",
+      "spell",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_923_battlegroundsImage.png",
+    "source_filename": "BG33_923_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_140",
+    "name": "飞行专家",
+    "tier": 2,
+    "attack": 3,
+    "health": 4,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "进击：召唤你手牌中攻击力最高的随从，其登场仅限本场战斗。",
+    "tags": [
+      "summon",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_140_battlegroundsImage.png",
+    "source_filename": "BG34_140_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_145",
+    "name": "未来鱼人",
+    "tier": 7,
+    "attack": 7,
+    "health": 13,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "在你的回合结束时，使你手牌中最左边的随从牌获得本随从的属性值。",
+    "tags": [
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_145_battlegroundsImage.png",
+    "source_filename": "BG34_145_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_175",
+    "name": "废铁枪骑士",
+    "tier": 6,
+    "attack": 8,
+    "health": 7,
+    "tribes": [
+      "机械"
+    ],
+    "text": "在你磁力吸附一个随从后，使你的随从获得+5/+5。",
+    "tags": [
+      "buff",
+      "magnetic",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_175_battlegroundsImage.png",
+    "source_filename": "BG34_175_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_231",
+    "name": "古老之魂",
+    "tier": 2,
+    "attack": 3,
+    "health": 4,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "当本随从在你手牌中时，在15个友方随从死亡后，将本随从变为金色。（还剩15个！）",
+    "tags": [
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_231_battlegroundsImage.png",
+    "source_filename": "BG34_231_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_312",
+    "name": "强韧的虎鲸",
+    "tier": 3,
+    "attack": 1,
+    "health": 6,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "嘲讽。每当本随从受到伤害，使你的其他随从获得+1/+1。",
+    "tags": [
+      "buff",
+      "scaling",
+      "taunt",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_312_battlegroundsImage.png",
+    "source_filename": "BG34_312_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_319",
+    "name": "莱，至高守护者",
+    "tier": 7,
+    "attack": 6,
+    "health": 6,
+    "tribes": [],
+    "text": "战吼，亡语，进击：随机获取一张等级6的随从牌。",
+    "tags": [
+      "battlecry",
+      "deathrattle"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_319_battlegroundsImage.png",
+    "source_filename": "BG34_319_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_320",
+    "name": "最后的生物",
+    "tier": 7,
+    "attack": 12,
+    "health": 12,
+    "tribes": [
+      "全部"
+    ],
+    "text": "进击：使每个类型的各一个友方随从永久获得+12/+12。",
+    "tags": [
+      "buff",
+      "scaling",
+      "tribe:全部"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_320_battlegroundsImage.png",
+    "source_filename": "BG34_320_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_321",
+    "name": "狂乱的猎豹",
+    "tier": 6,
+    "attack": 4,
+    "health": 8,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "在你使用一张野兽牌后，使你的野兽获得+3/+3并对它们造成1点伤害。",
+    "tags": [
+      "buff",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_321_battlegroundsImage.png",
+    "source_filename": "BG34_321_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_322",
+    "name": "坚韧的科多兽",
+    "tier": 7,
+    "attack": 16,
+    "health": 32,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "在战斗中，在你召唤 一个随从后，使其获得本随从的最大属性值。（每场战斗限3次。）3在战斗中，在你召唤一个随从后，使其获得本随从的最大属性值。（还剩3次！）",
+    "tags": [
+      "buff",
+      "summon",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_322_battlegroundsImage.png",
+    "source_filename": "BG34_322_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_500",
+    "name": "魔焰执行者",
+    "tier": 4,
+    "attack": 4,
+    "health": 5,
+    "tribes": [
+      "元素",
+      "恶魔"
+    ],
+    "text": "在你的回合结束时，吞食酒馆中生命值最高的随从以获得其 属性值。",
+    "tags": [
+      "tribe:元素",
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_500_battlegroundsImage.png",
+    "source_filename": "BG34_500_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_523",
+    "name": "猎食的虎鲨",
+    "tier": 4,
+    "attack": 3,
+    "health": 5,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "战吼： 发现一张野兽牌。",
+    "tags": [
+      "battlecry",
+      "discover",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_523_battlegroundsImage.png",
+    "source_filename": "BG34_523_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_604",
+    "name": "英勇的逆袭者",
+    "tier": 4,
+    "attack": 1,
+    "health": 10,
+    "tribes": [],
+    "text": "潜行。进击：获得目标的攻击力。",
+    "tags": [],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_604_battlegroundsImage.png",
+    "source_filename": "BG34_604_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_630",
+    "name": "暮光龙崽",
+    "tier": 1,
+    "attack": 1,
+    "health": 1,
+    "tribes": [
+      "龙"
+    ],
+    "text": "亡语：召唤一条3/3并立即发起攻击的 雏龙。",
+    "tags": [
+      "deathrattle",
+      "summon",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_630_battlegroundsImage.png",
+    "source_filename": "BG34_630_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_632",
+    "name": "孵化研究员",
+    "tier": 4,
+    "attack": 2,
+    "health": 8,
+    "tribes": [
+      "龙"
+    ],
+    "text": "复仇（3）：随机获取一张多彩幼龙。",
+    "tags": [
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_632_battlegroundsImage.png",
+    "source_filename": "BG34_632_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_634t",
+    "name": "蓝色多彩幼龙",
+    "tier": 3,
+    "attack": 4,
+    "health": 4,
+    "tribes": [
+      "龙"
+    ],
+    "text": "战吼：随机获取一张消耗2枚铸币的酒馆法术牌。",
+    "tags": [
+      "battlecry",
+      "economy",
+      "spell",
+      "tavern_spell",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_634t_battlegroundsImage.png",
+    "source_filename": "BG34_634t_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_635t",
+    "name": "黑色多彩幼龙",
+    "tier": 3,
+    "attack": 4,
+    "health": 6,
+    "tribes": [
+      "龙"
+    ],
+    "text": "战吼： 在本局对战中，你的酒馆法术使随从额外获得+1生命值。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "scaling",
+      "spell",
+      "tavern_spell",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_635t_battlegroundsImage.png",
+    "source_filename": "BG34_635t_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_636t",
+    "name": "绿色多彩幼龙",
+    "tier": 3,
+    "attack": 3,
+    "health": 5,
+    "tribes": [
+      "龙"
+    ],
+    "text": "战吼：使你的其他龙获得+1/+3。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_636t.webp",
+    "source_filename": "BG34_636t.webp",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_637t",
+    "name": "青铜多彩幼龙",
+    "tier": 3,
+    "attack": 5,
+    "health": 3,
+    "tribes": [
+      "龙"
+    ],
+    "text": "战吼：使你的其他龙获得+3/+1。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_637t.webp",
+    "source_filename": "BG34_637t.webp",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_638t",
+    "name": "红色多彩幼龙",
+    "tier": 3,
+    "attack": 6,
+    "health": 4,
+    "tribes": [
+      "龙"
+    ],
+    "text": "战吼： 在本局对战中，你的酒馆法术使随从额外获得+1攻击力。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "scaling",
+      "spell",
+      "tavern_spell",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_638t_battlegroundsImage.png",
+    "source_filename": "BG34_638t_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_682",
+    "name": "剃刀沼泽舞扇者",
+    "tier": 4,
+    "attack": 6,
+    "health": 2,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "亡语：获取一张鲜血宝石弹幕。",
+    "tags": [
+      "deathrattle",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_682_battlegroundsImage.png",
+    "source_filename": "BG34_682_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_683",
+    "name": "棘背鼓手",
+    "tier": 3,
+    "attack": 5,
+    "health": 3,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "战吼：获取一张鲜血宝石弹幕。",
+    "tags": [
+      "battlecry",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_683_battlegroundsImage.png",
+    "source_filename": "BG34_683_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_684",
+    "name": "堑壕斗士",
+    "tier": 4,
+    "attack": 6,
+    "health": 6,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "在你的回合结束时，获取一张查抄宝石。",
+    "tags": [
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_684.webp",
+    "source_filename": "BG34_684.webp",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_690",
+    "name": "疫病行尸",
+    "tier": 4,
+    "attack": 4,
+    "health": 2,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "亡语：在本局对战中，你的亡灵拥有+2攻击力，无论它们在哪。（如果本随从在战斗之外死亡，改为+4！）",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_690_battlegroundsImage.png",
+    "source_filename": "BG34_690_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_692",
+    "name": "被遗忘者纺织工",
+    "tier": 6,
+    "attack": 3,
+    "health": 10,
+    "tribes": [
+      "亡灵"
+    ],
+    "text": "在你施放一个酒馆法术后，你的亡灵在本局对战中拥有+2攻击力（无论它们 在哪）。",
+    "tags": [
+      "buff",
+      "spell",
+      "tavern_spell",
+      "tribe:亡灵"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_692_battlegroundsImage.png",
+    "source_filename": "BG34_692_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_765",
+    "name": "死海破坏者",
+    "tier": 6,
+    "attack": 4,
+    "health": 5,
+    "tribes": [
+      "亡灵",
+      "海盗"
+    ],
+    "text": "进击：使4个其他友方随从获得本随从的攻击力。",
+    "tags": [
+      "tribe:亡灵",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_765.webp",
+    "source_filename": "BG34_765.webp",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_781",
+    "name": "邪能恐角龙",
+    "tier": 3,
+    "attack": 2,
+    "health": 4,
+    "tribes": [
+      "恶魔",
+      "野兽"
+    ],
+    "text": "战吼：使你的其他恶魔和野兽获得+1/+2并对其造成1点伤害，触发两次。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "tribe:恶魔",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_781.webp",
+    "source_filename": "BG34_781.webp",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_856",
+    "name": "幼体水波",
+    "tier": 3,
+    "attack": 6,
+    "health": 1,
+    "tribes": [
+      "元素"
+    ],
+    "text": "亡语：在本局对战中，在酒馆刷新后，使酒馆中一个随机随从获得+3/+3。",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_856_battlegroundsImage.png",
+    "source_filename": "BG34_856_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_865",
+    "name": "爆焰灯神",
+    "tier": 4,
+    "attack": 4,
+    "health": 4,
+    "tribes": [
+      "元素"
+    ],
+    "text": "战吼：在本局对战中，在酒馆刷新后，使酒馆中一个随机随从获得+7/+7。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_865_battlegroundsImage.png",
+    "source_filename": "BG34_865_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_920",
+    "name": "赶潮纳迦",
+    "tier": 2,
+    "attack": 2,
+    "health": 1,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "嘲讽。亡语：对一个相邻的随从施放变换之潮。",
+    "tags": [
+      "deathrattle",
+      "taunt",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_920_battlegroundsImage.png",
+    "source_filename": "BG34_920_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_921",
+    "name": "护戒纳迦",
+    "tier": 6,
+    "attack": 5,
+    "health": 10,
+    "tribes": [
+      "纳迦",
+      "龙"
+    ],
+    "text": "每当一个友方随从 攻击时，施放闪亮的戒指。",
+    "tags": [
+      "scaling",
+      "tribe:纳迦",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_921_battlegroundsImage.png",
+    "source_filename": "BG34_921_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_925",
+    "name": "海床招募者",
+    "tier": 4,
+    "attack": 3,
+    "health": 5,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "进击：对本随从右边的随从施放主厨 甄选。",
+    "tags": [
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_925_battlegroundsImage.png",
+    "source_filename": "BG34_925_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_926",
+    "name": "无情的女王护卫",
+    "tier": 6,
+    "attack": 3,
+    "health": 3,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "战吼，亡语，进击：施放女王的命令。",
+    "tags": [
+      "battlecry",
+      "deathrattle",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_926_battlegroundsImage.png",
+    "source_filename": "BG34_926_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG34_950",
+    "name": "石器时代顽石",
+    "tier": 7,
+    "attack": 5,
+    "health": 10,
+    "tribes": [
+      "元素"
+    ],
+    "text": "在你购买一个随从后，使其获得+10/+10并使其属性值翻倍。（每回合一次。）",
+    "tags": [
+      "buff",
+      "scaling",
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_950_battlegroundsImage.png",
+    "source_filename": "BG34_950_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_123",
+    "name": "灾变先锋",
+    "tier": 5,
+    "attack": 6,
+    "health": 10,
+    "tribes": [],
+    "text": "在你的回合结束时，获取你施放的上一个酒馆法术的一张复制。",
+    "tags": [
+      "spell",
+      "tavern_spell"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_123_battlegroundsImage.png",
+    "source_filename": "BG35_123_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_140",
+    "name": "莫格顿大妈",
+    "tier": 3,
+    "attack": 5,
+    "health": 3,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "战吼：使你的其他鱼人获得+2攻击力。（在本局对战中你每使用过一张莫格顿家的鱼人牌都会提升！）",
+    "tags": [
+      "battlecry",
+      "buff",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_140_battlegroundsImage.png",
+    "source_filename": "BG35_140_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_141",
+    "name": "莫格顿老爹",
+    "tier": 3,
+    "attack": 3,
+    "health": 5,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "战吼：使你的其他鱼人获得+2生命值。（在本局对战中你每使用过一张莫格顿家的鱼人牌都会提升！）",
+    "tags": [
+      "battlecry",
+      "buff",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_141_battlegroundsImage.png",
+    "source_filename": "BG35_141_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_142",
+    "name": "厄戈尔表弟",
+    "tier": 5,
+    "attack": 5,
+    "health": 5,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "在你的回合结束时，获取一张莫格顿大妈或莫格顿老爹。",
+    "tags": [
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_142_battlegroundsImage.png",
+    "source_filename": "BG35_142_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_143",
+    "name": "深水酋长",
+    "tier": 4,
+    "attack": 3,
+    "health": 2,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "战吼，亡语：获取一张深水族群。",
+    "tags": [
+      "battlecry",
+      "deathrattle",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_143_battlegroundsImage.png",
+    "source_filename": "BG35_143_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_150",
+    "name": "实验室助理",
+    "tier": 2,
+    "attack": 3,
+    "health": 4,
+    "tribes": [
+      "恶魔"
+    ],
+    "text": "战吼：在你的下3次刷新中各添加一个恶魔饲料。",
+    "tags": [
+      "battlecry",
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_150_battlegroundsImage.png",
+    "source_filename": "BG35_150_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_151",
+    "name": "林地亵渎者",
+    "tier": 4,
+    "attack": 5,
+    "health": 6,
+    "tribes": [
+      "恶魔"
+    ],
+    "text": "在你的回合结束时，在你的下3次刷新中各添加一个恶魔饲料。",
+    "tags": [
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_151_battlegroundsImage.png",
+    "source_filename": "BG35_151_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_153",
+    "name": "食力征服者",
+    "tier": 6,
+    "attack": 9,
+    "health": 7,
+    "tribes": [
+      "恶魔"
+    ],
+    "text": "每当一个随从被吞食，在本回合中使酒馆中的随从获得+1/+1。",
+    "tags": [
+      "buff",
+      "scaling",
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_153_battlegroundsImage.png",
+    "source_filename": "BG35_153_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_155",
+    "name": "扭曲的愤怒卫士",
+    "tier": 6,
+    "attack": 8,
+    "health": 8,
+    "tribes": [
+      "恶魔"
+    ],
+    "text": "在你出售一个随从后，在你的下一次刷新中添加一个恶魔饲料。",
+    "tags": [
+      "economy",
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_155_battlegroundsImage.png",
+    "source_filename": "BG35_155_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_340",
+    "name": "通报警告机",
+    "tier": 2,
+    "attack": 2,
+    "health": 2,
+    "tribes": [
+      "机械"
+    ],
+    "text": "嘲讽。亡语：你购买的下一张酒馆法术牌消耗的铸币减少 （1）枚。",
+    "tags": [
+      "deathrattle",
+      "economy",
+      "spell",
+      "taunt",
+      "tavern_spell",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_340_battlegroundsImage.png",
+    "source_filename": "BG35_340_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_341",
+    "name": "附魔哨卫",
+    "tier": 4,
+    "attack": 3,
+    "health": 5,
+    "tribes": [
+      "机械"
+    ],
+    "text": "磁力。你的酒馆法术使随从额外获得+1/+1。",
+    "tags": [
+      "buff",
+      "magnetic",
+      "scaling",
+      "spell",
+      "tavern_spell",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_341_battlegroundsImage.png",
+    "source_filename": "BG35_341_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_342",
+    "name": "坠落的飞天魔像",
+    "tier": 6,
+    "attack": 4,
+    "health": 2,
+    "tribes": [
+      "机械"
+    ],
+    "text": "圣盾。在本局对战中，你每触发过一次亡语，便拥有+4/+2（无论本随从在哪）。",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "divine_shield",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_342_battlegroundsImage.png",
+    "source_filename": "BG35_342_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_431",
+    "name": "大地之歌萨满祭司",
+    "tier": 6,
+    "attack": 4,
+    "health": 5,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "风怒。在你的回合结束时，本随从对你的所有随从各使用一张鲜血宝石。本随从每拥有一个额外关键词，重复一次。",
+    "tags": [
+      "tribe:野猪人",
+      "windfury"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_431_battlegroundsImage.png",
+    "source_filename": "BG35_431_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_433",
+    "name": "赤牙荆棘培育师",
+    "tier": 4,
+    "attack": 3,
+    "health": 7,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "在你的回合结束时，获取一张鲜血宝石。该宝石还能使野猪人获得复生。",
+    "tags": [
+      "reborn",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_433_battlegroundsImage.png",
+    "source_filename": "BG35_433_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_437",
+    "name": "藤语野猪人",
+    "tier": 6,
+    "attack": 7,
+    "health": 8,
+    "tribes": [
+      "野猪人"
+    ],
+    "text": "在一个友方亡语随从死亡后，你的鲜血宝石会在本局对战中使随从额外获得+1攻击力。",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "scaling",
+      "tribe:野猪人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_437_battlegroundsImage.png",
+    "source_filename": "BG35_437_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_601",
+    "name": "双足飞龙前锋",
+    "tier": 4,
+    "attack": 2,
+    "health": 8,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "每当本随从受到伤害，获得一次免费的刷新。（每回合限3次。）3每当本随从受到伤害，获得一次免费的刷新。（还剩3次！）",
+    "tags": [
+      "scaling",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_601_battlegroundsImage.png",
+    "source_filename": "BG35_601_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_604",
+    "name": "下水道老鼠头目",
+    "tier": 5,
+    "attack": 4,
+    "health": 6,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "亡语：召唤两只下水道老鼠。下水道老鼠能召唤2/3并具有嘲讽的乌龟。",
+    "tags": [
+      "deathrattle",
+      "summon",
+      "taunt",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_604_battlegroundsImage.png",
+    "source_filename": "BG35_604_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_702",
+    "name": "浪荡水手",
+    "tier": 4,
+    "attack": 7,
+    "health": 3,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "战吼：使一个友方随从获得+2/+2。（在本回合中，你每施放过一个酒馆法术都会提升！）",
+    "tags": [
+      "battlecry",
+      "buff",
+      "spell",
+      "tavern_spell",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_702_battlegroundsImage.png",
+    "source_filename": "BG35_702_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_801",
+    "name": "贪吃的穴居人",
+    "tier": 1,
+    "attack": 2,
+    "health": 3,
+    "tribes": [],
+    "text": "一旦你购买了4张牌，获得+4/+4。（还剩4张！）4一旦你购买了4张牌，获得+4/+4。（已完成！）",
+    "tags": [
+      "buff"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_801_battlegroundsImage.png",
+    "source_filename": "BG35_801_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_814",
+    "name": "血色幸存飞龙",
+    "tier": 1,
+    "attack": 3,
+    "health": 3,
+    "tribes": [
+      "龙"
+    ],
+    "text": "一旦本随从的攻击力达到6点，获得圣盾。6一旦本随从的攻击力达到6点，获得圣盾。（已完成！）",
+    "tags": [
+      "divine_shield",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_814_battlegroundsImage.png",
+    "source_filename": "BG35_814_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_881",
+    "name": "魔网浮灵",
+    "tier": 4,
+    "attack": 4,
+    "health": 6,
+    "tribes": [
+      "元素"
+    ],
+    "text": "战吼，亡语：获取一张奥术吸收。",
+    "tags": [
+      "battlecry",
+      "deathrattle",
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_881_battlegroundsImage.png",
+    "source_filename": "BG35_881_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_883",
+    "name": "巴琳达·斯通赫尔斯",
+    "tier": 6,
+    "attack": 6,
+    "health": 6,
+    "tribes": [],
+    "text": "你的以友方随从为目标的法术会施放 两次。",
+    "tags": [
+      "spell"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_883_battlegroundsImage.png",
+    "source_filename": "BG35_883_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_890",
+    "name": "机巧发明机",
+    "tier": 5,
+    "attack": 9,
+    "health": 4,
+    "tribes": [
+      "机械"
+    ],
+    "text": "亡语：在本场战斗中，你的机械拥有+2攻击力。（在本局对战中你每磁力吸附一次都会提升！）",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "magnetic",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_890.webp",
+    "source_filename": "BG35_890.webp",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_895",
+    "name": "招潮者先知",
+    "tier": 5,
+    "attack": 5,
+    "health": 6,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "你的酒馆法术使随从额外获得+1/+1。在你使用2张鱼人牌后，在本回合中提升此效果。（还剩2张！）",
+    "tags": [
+      "buff",
+      "scaling",
+      "spell",
+      "tavern_spell",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_895.webp",
+    "source_filename": "BG35_895.webp",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG35_921",
+    "name": "深渊打手",
+    "tier": 4,
+    "attack": 1,
+    "health": 1,
+    "tribes": [
+      "纳迦"
+    ],
+    "text": "圣盾。在本局对战中，你每施放一个酒馆法术，便拥有+1/+1。",
+    "tags": [
+      "buff",
+      "divine_shield",
+      "spell",
+      "tavern_spell",
+      "tribe:纳迦"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_921_battlegroundsImage.png",
+    "source_filename": "BG35_921_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG_BOT_911",
+    "name": "吵吵模组",
+    "tier": 3,
+    "attack": 2,
+    "health": 4,
+    "tribes": [
+      "机械"
+    ],
+    "text": "磁力 圣盾 嘲讽",
+    "tags": [
+      "divine_shield",
+      "magnetic",
+      "taunt",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG_BOT_911_battlegroundsImage.png",
+    "source_filename": "BG_BOT_911_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG_DAL_775",
+    "name": "坑道爆破师",
+    "tier": 4,
+    "attack": 3,
+    "health": 7,
+    "tribes": [],
+    "text": "嘲讽，亡语：对所有随从造成3点伤害。",
+    "tags": [
+      "deathrattle",
+      "taunt"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG_DAL_775_battlegroundsImage.png",
+    "source_filename": "BG_DAL_775_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG_DEEP_015",
+    "name": "义肢假手",
+    "tier": 4,
+    "attack": 3,
+    "health": 1,
+    "tribes": [
+      "亡灵",
+      "机械"
+    ],
+    "text": "磁力。复生 可以磁力吸附在机械或亡灵上。",
+    "tags": [
+      "magnetic",
+      "reborn",
+      "tribe:亡灵",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG_DEEP_015_battlegroundsImage.png",
+    "source_filename": "BG_DEEP_015_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG_LOE_077",
+    "name": "布莱恩·铜须",
+    "tier": 5,
+    "attack": 2,
+    "health": 4,
+    "tribes": [],
+    "text": "你的战吼会触发 两次。",
+    "tags": [
+      "battlecry"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG_LOE_077_battlegroundsImage.png",
+    "source_filename": "BG_LOE_077_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BG_TTN_401",
+    "name": "星元自动机",
+    "tier": 2,
+    "attack": 3,
+    "health": 4,
+    "tribes": [
+      "机械"
+    ],
+    "text": "在本局对战中，你每召唤过一个其他星元自动机，便拥有+3/+2（无论本随从在哪）。",
+    "tags": [
+      "buff",
+      "summon",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG_TTN_401_battlegroundsImage.png",
+    "source_filename": "BG_TTN_401_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_004",
+    "name": "愤怒编织者",
+    "tier": 1,
+    "attack": 1,
+    "health": 4,
+    "tribes": [
+      "恶魔"
+    ],
+    "text": "在你使用一张恶魔牌后，对你的英雄造成1点伤害并获得+2/+1。",
+    "tags": [
+      "buff",
+      "tribe:恶魔"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_004_battlegroundsImage.png",
+    "source_filename": "BGS_004_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_012",
+    "name": "坎格尔的学徒",
+    "tier": 5,
+    "attack": 3,
+    "health": 6,
+    "tribes": [],
+    "text": "亡语：召唤你本场战斗中最先死亡的2个机械的原始版复制。",
+    "tags": [
+      "deathrattle",
+      "summon"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_012_battlegroundsImage.png",
+    "source_filename": "BGS_012_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_018",
+    "name": "巨狼戈德林",
+    "tier": 6,
+    "attack": 8,
+    "health": 8,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "亡语：在本场战斗的剩余时间内，你的野兽拥有+8/+8。",
+    "tags": [
+      "buff",
+      "deathrattle",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_018_battlegroundsImage.png",
+    "source_filename": "BGS_018_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_020",
+    "name": "蛮鱼斥候",
+    "tier": 5,
+    "attack": 3,
+    "health": 2,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "战吼：如果你控制着其他鱼人，发现一张鱼人牌。",
+    "tags": [
+      "battlecry",
+      "discover",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_020_battlegroundsImage.png",
+    "source_filename": "BGS_020_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_030",
+    "name": "拜戈尔格国王",
+    "tier": 4,
+    "attack": 4,
+    "health": 4,
+    "tribes": [
+      "鱼人"
+    ],
+    "text": "战吼：使你手牌中和场上的所有其他鱼人获得+4/+4。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "tribe:鱼人"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_030_battlegroundsImage.png",
+    "source_filename": "BGS_030_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_041",
+    "name": "奥术守护者卡雷苟斯",
+    "tier": 5,
+    "attack": 4,
+    "health": 12,
+    "tribes": [
+      "龙"
+    ],
+    "text": "在你触发一个战吼后，使你的龙获得+2/+2。",
+    "tags": [
+      "battlecry",
+      "buff",
+      "tribe:龙"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_041_battlegroundsImage.png",
+    "source_filename": "BGS_041_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_049",
+    "name": "白赚赌徒",
+    "tier": 2,
+    "attack": 3,
+    "health": 3,
+    "tribes": [
+      "海盗"
+    ],
+    "text": "出售本随从可以获得3枚铸币。",
+    "tags": [
+      "economy",
+      "tribe:海盗"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_049_battlegroundsImage.png",
+    "source_filename": "BGS_049_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_071",
+    "name": "偏折机器人",
+    "tier": 3,
+    "attack": 3,
+    "health": 2,
+    "tribes": [
+      "机械"
+    ],
+    "text": "圣盾 在战斗阶段中，每当你召唤一个机械，便获得+2攻击力和圣盾。",
+    "tags": [
+      "buff",
+      "divine_shield",
+      "scaling",
+      "summon",
+      "tribe:机械"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_071_battlegroundsImage.png",
+    "source_filename": "BGS_071_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_078",
+    "name": "巨大的金刚鹦鹉",
+    "tier": 4,
+    "attack": 5,
+    "health": 4,
+    "tribes": [
+      "野兽"
+    ],
+    "text": "进击：触发你最左边的亡语（本随从的除外）。",
+    "tags": [
+      "deathrattle",
+      "tribe:野兽"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_078_battlegroundsImage.png",
+    "source_filename": "BGS_078_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_104",
+    "name": "“厨房煞星”诺米",
+    "tier": 5,
+    "attack": 6,
+    "health": 6,
+    "tribes": [],
+    "text": "在你使用一张元素牌后，使酒馆中的元素在本局对战中获得+4/+4。",
+    "tags": [
+      "buff"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_104_battlegroundsImage.png",
+    "source_filename": "BGS_104_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_115",
+    "name": "商贩元素",
+    "tier": 2,
+    "attack": 3,
+    "health": 3,
+    "tribes": [
+      "元素"
+    ],
+    "text": "当你出售 本随从时，获取一张3/3的元素牌。",
+    "tags": [
+      "economy",
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_115_battlegroundsImage.png",
+    "source_filename": "BGS_115_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_116",
+    "name": "刷新畸体",
+    "tier": 4,
+    "attack": 4,
+    "health": 5,
+    "tribes": [
+      "元素"
+    ],
+    "text": "战吼：获得2次免费的刷新。",
+    "tags": [
+      "battlecry",
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_116_battlegroundsImage.png",
+    "source_filename": "BGS_116_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_119",
+    "name": "爆裂飓风",
+    "tier": 1,
+    "attack": 2,
+    "health": 1,
+    "tribes": [
+      "元素"
+    ],
+    "text": "圣盾，风怒",
+    "tags": [
+      "divine_shield",
+      "tribe:元素",
+      "windfury"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_119_battlegroundsImage.png",
+    "source_filename": "BGS_119_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_123",
+    "name": "酒馆旋风",
+    "tier": 4,
+    "attack": 2,
+    "health": 2,
+    "tribes": [
+      "元素"
+    ],
+    "text": "战吼：随机获取一张元素牌。",
+    "tags": [
+      "battlecry",
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_123_battlegroundsImage.png",
+    "source_filename": "BGS_123_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_126",
+    "name": "野火元素",
+    "tier": 3,
+    "attack": 6,
+    "health": 3,
+    "tribes": [
+      "元素"
+    ],
+    "text": "在本随从攻击并消灭一个随从后，对一个相邻的随从造成超过目标生命值的伤害。",
+    "tags": [
+      "tribe:元素"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_126_battlegroundsImage.png",
+    "source_filename": "BGS_126_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  },
+  {
+    "id": "BGS_131",
+    "name": "致命的孢子",
+    "tier": 3,
+    "attack": 1,
+    "health": 1,
+    "tribes": [],
+    "text": "烈毒",
+    "tags": [
+      "venomous"
+    ],
+    "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_131_battlegroundsImage.png",
+    "source_filename": "BGS_131_battlegroundsImage.png",
+    "needs_metadata": false,
+    "metadata_source": "hearthstonejson"
+  }
+]

@@ -1,0 +1,886 @@
+{
+  "tavern_tier": {
+    "final": 6,
+    "hud": null,
+    "source": "shop_badges",
+    "shop_badge_inferred": 6,
+    "shop_candidate_max_tier": 6
+  },
+  "shop_slots": [
+    {
+      "slot_id": "shop_1",
+      "crop_path": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\hearthstone_battlegrounds_agent\\work\\desktop_assistant\\crops\\shop_1.png",
+      "features": {
+        "tier": 6,
+        "attack": 91,
+        "health": 6,
+        "slot_type": "minion",
+        "tier_confidence": 0.72,
+        "confidence": 0.6011867341329812
+      },
+      "candidates": [
+        {
+          "id": "BG28_551",
+          "name": "救赎者娜拉",
+          "tier": 5,
+          "score": 0.7423,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG28_551_battlegroundsImage.png"
+        },
+        {
+          "id": "BG34_765",
+          "name": "死海破坏者",
+          "tier": 6,
+          "score": 0.7381,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_765.webp"
+        },
+        {
+          "id": "BG24_018",
+          "name": "蓝壳始祖龟",
+          "tier": 4,
+          "score": 0.7352,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG24_018_battlegroundsImage.png"
+        },
+        {
+          "id": "BG24_715",
+          "name": "耐心的侦查员",
+          "tier": 2,
+          "score": 0.7347,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG24_715_battlegroundsImage.png"
+        },
+        {
+          "id": "BG33_154",
+          "name": "废墟领主",
+          "tier": 6,
+          "score": 0.7279,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_154_battlegroundsImage.png"
+        },
+        {
+          "id": "BG26_175",
+          "name": "惊喜元素",
+          "tier": 6,
+          "score": 0.7252,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_175_battlegroundsImage.png"
+        },
+        {
+          "id": "BG35_150",
+          "name": "实验室助理",
+          "tier": 2,
+          "score": 0.7244,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_150_battlegroundsImage.png"
+        },
+        {
+          "id": "BG24_500",
+          "name": "琥珀卫士",
+          "tier": 3,
+          "score": 0.7238,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG24_500_battlegroundsImage.png"
+        }
+      ]
+    },
+    {
+      "slot_id": "shop_2",
+      "crop_path": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\hearthstone_battlegrounds_agent\\work\\desktop_assistant\\crops\\shop_2.png",
+      "features": {
+        "tier": 2,
+        "attack": 1,
+        "health": 1,
+        "slot_type": "minion",
+        "tier_confidence": 0.72,
+        "confidence": 0.8066666666666666
+      },
+      "candidates": [
+        {
+          "id": "BG26_147",
+          "name": "手风琴机器人",
+          "tier": 3,
+          "score": 0.769,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_147_battlegroundsImage.png"
+        },
+        {
+          "id": "BG30_121",
+          "name": "热气球测绘员",
+          "tier": 4,
+          "score": 0.7247,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG30_121.webp"
+        },
+        {
+          "id": "BG26_159",
+          "name": "暗膘爵士乐手",
+          "tier": 2,
+          "score": 0.7192,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_159.webp"
+        },
+        {
+          "id": "BG24_018",
+          "name": "蓝壳始祖龟",
+          "tier": 4,
+          "score": 0.7185,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG24_018_battlegroundsImage.png"
+        },
+        {
+          "id": "BG33_241",
+          "name": "贪睡的援护巨龙",
+          "tier": 2,
+          "score": 0.7174,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_241_battlegroundsImage.png"
+        },
+        {
+          "id": "BG34_500",
+          "name": "魔焰执行者",
+          "tier": 4,
+          "score": 0.7123,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_500_battlegroundsImage.png"
+        },
+        {
+          "id": "BG30_123",
+          "name": "无畏的食客",
+          "tier": 4,
+          "score": 0.7102,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG30_123_battlegroundsImage.png"
+        },
+        {
+          "id": "BG35_151",
+          "name": "林地亵渎者",
+          "tier": 4,
+          "score": 0.7081,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_151_battlegroundsImage.png"
+        }
+      ]
+    },
+    {
+      "slot_id": "shop_3",
+      "crop_path": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\hearthstone_battlegrounds_agent\\work\\desktop_assistant\\crops\\shop_3.png",
+      "features": {
+        "tier": 3,
+        "attack": 1,
+        "health": null,
+        "slot_type": "minion",
+        "tier_confidence": 0.72,
+        "confidence": 0.6119360434395426
+      },
+      "candidates": [
+        {
+          "id": "BG34_637t",
+          "name": "青铜多彩幼龙",
+          "tier": 3,
+          "score": 0.7839,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_637t.webp"
+        },
+        {
+          "id": "BG30_121",
+          "name": "热气球测绘员",
+          "tier": 4,
+          "score": 0.7654,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG30_121.webp"
+        },
+        {
+          "id": "BG26_159",
+          "name": "暗膘爵士乐手",
+          "tier": 2,
+          "score": 0.7416,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_159.webp"
+        },
+        {
+          "id": "BG34_636t",
+          "name": "绿色多彩幼龙",
+          "tier": 3,
+          "score": 0.732,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_636t.webp"
+        },
+        {
+          "id": "BG26_137",
+          "name": "裁脍鱼人",
+          "tier": 4,
+          "score": 0.7201,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_137.webp"
+        },
+        {
+          "id": "BGS_126",
+          "name": "野火元素",
+          "tier": 3,
+          "score": 0.7192,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_126_battlegroundsImage.png"
+        },
+        {
+          "id": "BG34_781",
+          "name": "邪能恐角龙",
+          "tier": 3,
+          "score": 0.7157,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_781.webp"
+        },
+        {
+          "id": "BG31_816",
+          "name": "火焰投球手",
+          "tier": 2,
+          "score": 0.7083,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_816_battlegroundsImage.png"
+        }
+      ]
+    },
+    {
+      "slot_id": "shop_4",
+      "crop_path": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\hearthstone_battlegrounds_agent\\work\\desktop_assistant\\crops\\shop_4.png",
+      "features": {
+        "tier": 1,
+        "attack": null,
+        "health": 1,
+        "slot_type": "minion",
+        "tier_confidence": 0.72,
+        "confidence": 0.5233333333333333
+      },
+      "candidates": [
+        {
+          "id": "BG24_707",
+          "name": "刺鬃废料铁匠",
+          "tier": 3,
+          "score": 0.7377,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG24_707_battlegroundsImage.png"
+        },
+        {
+          "id": "BG_DAL_775",
+          "name": "坑道爆破师",
+          "tier": 4,
+          "score": 0.7296,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG_DAL_775_battlegroundsImage.png"
+        },
+        {
+          "id": "BG35_340",
+          "name": "通报警告机",
+          "tier": 2,
+          "score": 0.7276,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_340_battlegroundsImage.png"
+        },
+        {
+          "id": "BG26_817",
+          "name": "刀剑收藏家",
+          "tier": 4,
+          "score": 0.727,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_817_battlegroundsImage.png"
+        },
+        {
+          "id": "BG30_123",
+          "name": "无畏的食客",
+          "tier": 4,
+          "score": 0.7197,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG30_123_battlegroundsImage.png"
+        },
+        {
+          "id": "BG34_635t",
+          "name": "黑色多彩幼龙",
+          "tier": 3,
+          "score": 0.7149,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_635t_battlegroundsImage.png"
+        },
+        {
+          "id": "BG34_638t",
+          "name": "红色多彩幼龙",
+          "tier": 3,
+          "score": 0.7117,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_638t_battlegroundsImage.png"
+        },
+        {
+          "id": "BG35_151",
+          "name": "林地亵渎者",
+          "tier": 4,
+          "score": 0.7114,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_151_battlegroundsImage.png"
+        }
+      ]
+    },
+    {
+      "slot_id": "shop_5",
+      "crop_path": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\hearthstone_battlegrounds_agent\\work\\desktop_assistant\\crops\\shop_5.png",
+      "features": {
+        "tier": 4,
+        "attack": null,
+        "health": null,
+        "slot_type": "minion",
+        "tier_confidence": 0.72,
+        "confidence": 0.5006773243360522
+      },
+      "candidates": [
+        {
+          "id": "BG21_018",
+          "name": "挑衅的船工",
+          "tier": 2,
+          "score": 0.8121,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG21_018_battlegroundsImage.png"
+        },
+        {
+          "id": "BG26_817",
+          "name": "刀剑收藏家",
+          "tier": 4,
+          "score": 0.7798,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_817_battlegroundsImage.png"
+        },
+        {
+          "id": "BG34_500",
+          "name": "魔焰执行者",
+          "tier": 4,
+          "score": 0.7508,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_500_battlegroundsImage.png"
+        },
+        {
+          "id": "BG25_001",
+          "name": "复活的骑兵",
+          "tier": 1,
+          "score": 0.7483,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_001_battlegroundsImage.png"
+        },
+        {
+          "id": "BG35_702",
+          "name": "浪荡水手",
+          "tier": 4,
+          "score": 0.7412,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_702_battlegroundsImage.png"
+        },
+        {
+          "id": "BG25_016",
+          "name": "辛多雷直射手",
+          "tier": 4,
+          "score": 0.7364,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_016_battlegroundsImage.png"
+        },
+        {
+          "id": "BG26_810",
+          "name": "火药运输工",
+          "tier": 3,
+          "score": 0.7324,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_810_battlegroundsImage.png"
+        },
+        {
+          "id": "BG34_635t",
+          "name": "黑色多彩幼龙",
+          "tier": 3,
+          "score": 0.7296,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_635t_battlegroundsImage.png"
+        }
+      ]
+    },
+    {
+      "slot_id": "shop_6",
+      "crop_path": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\hearthstone_battlegrounds_agent\\work\\desktop_assistant\\crops\\shop_6.png",
+      "features": {
+        "tier": 3,
+        "attack": null,
+        "health": 1,
+        "slot_type": "minion",
+        "tier_confidence": 0.72,
+        "confidence": 0.5233333333333333
+      },
+      "candidates": [
+        {
+          "id": "BG26_160",
+          "name": "刺头吹笛人",
+          "tier": 3,
+          "score": 0.7941,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_160_battlegroundsImage.png"
+        },
+        {
+          "id": "BG35_702",
+          "name": "浪荡水手",
+          "tier": 4,
+          "score": 0.7791,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_702_battlegroundsImage.png"
+        },
+        {
+          "id": "BGS_126",
+          "name": "野火元素",
+          "tier": 3,
+          "score": 0.7646,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_126_battlegroundsImage.png"
+        },
+        {
+          "id": "BG34_500",
+          "name": "魔焰执行者",
+          "tier": 4,
+          "score": 0.7459,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_500_battlegroundsImage.png"
+        },
+        {
+          "id": "BG33_323",
+          "name": "尘骨毁灭者",
+          "tier": 3,
+          "score": 0.7451,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_323.webp"
+        },
+        {
+          "id": "BG26_159",
+          "name": "暗膘爵士乐手",
+          "tier": 2,
+          "score": 0.7408,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_159.webp"
+        },
+        {
+          "id": "BG31_815",
+          "name": "沙丘土著",
+          "tier": 1,
+          "score": 0.7399,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_815_battlegroundsImage.png"
+        },
+        {
+          "id": "BG20_301",
+          "name": "晾膘的游客",
+          "tier": 1,
+          "score": 0.7377,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG20_301_battlegroundsImage.png"
+        }
+      ]
+    },
+    {
+      "slot_id": "shop_7",
+      "crop_path": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\hearthstone_battlegrounds_agent\\work\\desktop_assistant\\crops\\shop_7.png",
+      "features": {
+        "tier": 2,
+        "attack": null,
+        "health": null,
+        "slot_type": "minion",
+        "tier_confidence": 0.72,
+        "confidence": 0.24
+      },
+      "candidates": []
+    }
+  ],
+  "board_slots": [
+    {
+      "slot_id": "board_1",
+      "crop_path": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\hearthstone_battlegrounds_agent\\work\\desktop_assistant\\crops\\board_1.png",
+      "features": {
+        "tier": 5,
+        "attack": null,
+        "health": 1,
+        "slot_type": "minion",
+        "tier_confidence": 0.72,
+        "confidence": 0.5804918248221065,
+        "presence_score": 0.7302
+      },
+      "candidates": [
+        {
+          "id": "BG_LOE_077",
+          "name": "布莱恩·铜须",
+          "tier": 5,
+          "score": 0.7657,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG_LOE_077_battlegroundsImage.png"
+        },
+        {
+          "id": "BG35_437",
+          "name": "藤语野猪人",
+          "tier": 6,
+          "score": 0.7623,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_437_battlegroundsImage.png"
+        },
+        {
+          "id": "BG31_809",
+          "name": "绿松石飞掠虫",
+          "tier": 5,
+          "score": 0.738,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_809_battlegroundsImage.png"
+        },
+        {
+          "id": "BG34_690",
+          "name": "疫病行尸",
+          "tier": 4,
+          "score": 0.7349,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_690_battlegroundsImage.png"
+        },
+        {
+          "id": "BG25_041",
+          "name": "邪能元素",
+          "tier": 3,
+          "score": 0.7306,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_041_battlegroundsImage.png"
+        },
+        {
+          "id": "BG29_862",
+          "name": "贫瘠之地咒术师",
+          "tier": 5,
+          "score": 0.7165,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_862_battlegroundsImage.png"
+        },
+        {
+          "id": "BG29_816",
+          "name": "咆哮募兵龙",
+          "tier": 3,
+          "score": 0.7152,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_816_battlegroundsImage.png"
+        },
+        {
+          "id": "BG35_140",
+          "name": "莫格顿大妈",
+          "tier": 3,
+          "score": 0.7105,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_140_battlegroundsImage.png"
+        }
+      ]
+    },
+    {
+      "slot_id": "board_2",
+      "crop_path": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\hearthstone_battlegrounds_agent\\work\\desktop_assistant\\crops\\board_2.png",
+      "features": {
+        "tier": 1,
+        "attack": null,
+        "health": null,
+        "slot_type": "minion",
+        "tier_confidence": 0.72,
+        "confidence": 0.3121811877684781,
+        "presence_score": 0.9094
+      },
+      "candidates": [
+        {
+          "id": "BG26_162",
+          "name": "农场热舞旋风",
+          "tier": 5,
+          "score": 0.7446,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_162_battlegroundsImage.png"
+        },
+        {
+          "id": "BG29_300",
+          "name": "巨饿冬鳍鱼人",
+          "tier": 2,
+          "score": 0.7342,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_300_battlegroundsImage.png"
+        },
+        {
+          "id": "BG26_ICC_901",
+          "name": "达卡莱附魔师",
+          "tier": 5,
+          "score": 0.7337,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_ICC_901_battlegroundsImage.png"
+        },
+        {
+          "id": "BG23_018",
+          "name": "暗视长者",
+          "tier": 5,
+          "score": 0.7334,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG23_018_battlegroundsImage.png"
+        },
+        {
+          "id": "BG32_880",
+          "name": "友善的恶鬼",
+          "tier": 4,
+          "score": 0.7314,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG32_880_battlegroundsImage.png"
+        },
+        {
+          "id": "BG35_142",
+          "name": "厄戈尔表弟",
+          "tier": 5,
+          "score": 0.727,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_142_battlegroundsImage.png"
+        },
+        {
+          "id": "BG29_806",
+          "name": "炫彩灼天者",
+          "tier": 5,
+          "score": 0.7256,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_806_battlegroundsImage.png"
+        },
+        {
+          "id": "BG25_008",
+          "name": "永恒骑士",
+          "tier": 2,
+          "score": 0.7215,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_008_battlegroundsImage.png"
+        }
+      ]
+    },
+    {
+      "slot_id": "board_3",
+      "crop_path": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\hearthstone_battlegrounds_agent\\work\\desktop_assistant\\crops\\board_3.png",
+      "features": {
+        "tier": 7,
+        "attack": null,
+        "health": null,
+        "slot_type": "minion",
+        "tier_confidence": 0.72,
+        "confidence": 0.42567835590299813,
+        "presence_score": 0.8819
+      },
+      "candidates": [
+        {
+          "id": "BG25_041",
+          "name": "邪能元素",
+          "tier": 3,
+          "score": 0.739,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_041_battlegroundsImage.png"
+        },
+        {
+          "id": "BG31_171",
+          "name": "月铁毁灭战舰",
+          "tier": 6,
+          "score": 0.7139,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_171_battlegroundsImage.png"
+        },
+        {
+          "id": "BG34_145",
+          "name": "未来鱼人",
+          "tier": 7,
+          "score": 0.7122,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_145_battlegroundsImage.png"
+        },
+        {
+          "id": "BG34_634t",
+          "name": "蓝色多彩幼龙",
+          "tier": 3,
+          "score": 0.7093,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_634t_battlegroundsImage.png"
+        },
+        {
+          "id": "BG33_923",
+          "name": "破碎主母",
+          "tier": 6,
+          "score": 0.7067,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_923_battlegroundsImage.png"
+        },
+        {
+          "id": "BG33_894",
+          "name": "寒光潜水鱼人",
+          "tier": 3,
+          "score": 0.7031,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_894_battlegroundsImage.png"
+        },
+        {
+          "id": "BG34_175",
+          "name": "废铁枪骑士",
+          "tier": 6,
+          "score": 0.7018,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_175_battlegroundsImage.png"
+        },
+        {
+          "id": "BG34_635t",
+          "name": "黑色多彩幼龙",
+          "tier": 3,
+          "score": 0.6999,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_635t_battlegroundsImage.png"
+        }
+      ]
+    },
+    {
+      "slot_id": "board_4",
+      "crop_path": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\hearthstone_battlegrounds_agent\\work\\desktop_assistant\\crops\\board_4.png",
+      "features": {
+        "tier": 2,
+        "attack": 6,
+        "health": null,
+        "slot_type": "minion",
+        "tier_confidence": 0.72,
+        "confidence": 0.45579837896954634,
+        "presence_score": 0.6939
+      },
+      "candidates": [
+        {
+          "id": "BG33_823",
+          "name": "空军上将罗杰斯",
+          "tier": 6,
+          "score": 0.736,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_823_battlegroundsImage.png"
+        },
+        {
+          "id": "BG24_715",
+          "name": "耐心的侦查员",
+          "tier": 2,
+          "score": 0.7326,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG24_715_battlegroundsImage.png"
+        },
+        {
+          "id": "BG31_809",
+          "name": "绿松石飞掠虫",
+          "tier": 5,
+          "score": 0.7288,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_809_battlegroundsImage.png"
+        },
+        {
+          "id": "BG34_175",
+          "name": "废铁枪骑士",
+          "tier": 6,
+          "score": 0.7253,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_175_battlegroundsImage.png"
+        },
+        {
+          "id": "BGS_119",
+          "name": "爆裂飓风",
+          "tier": 1,
+          "score": 0.7201,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BGS_119_battlegroundsImage.png"
+        },
+        {
+          "id": "BG26_159",
+          "name": "暗膘爵士乐手",
+          "tier": 2,
+          "score": 0.7186,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_159.webp"
+        },
+        {
+          "id": "BG29_862",
+          "name": "贫瘠之地咒术师",
+          "tier": 5,
+          "score": 0.7167,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_862_battlegroundsImage.png"
+        },
+        {
+          "id": "BG30_123",
+          "name": "无畏的食客",
+          "tier": 4,
+          "score": 0.7162,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG30_123_battlegroundsImage.png"
+        }
+      ]
+    },
+    {
+      "slot_id": "board_5",
+      "crop_path": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\hearthstone_battlegrounds_agent\\work\\desktop_assistant\\crops\\board_5.png",
+      "features": {
+        "tier": 2,
+        "attack": 81,
+        "health": null,
+        "slot_type": "minion",
+        "tier_confidence": 0.72,
+        "confidence": 0.528585461447494,
+        "presence_score": 0.7452
+      },
+      "candidates": [
+        {
+          "id": "BG34_175",
+          "name": "废铁枪骑士",
+          "tier": 6,
+          "score": 0.7919,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG34_175_battlegroundsImage.png"
+        },
+        {
+          "id": "BG26_175",
+          "name": "惊喜元素",
+          "tier": 6,
+          "score": 0.7226,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_175_battlegroundsImage.png"
+        },
+        {
+          "id": "BG33_823",
+          "name": "空军上将罗杰斯",
+          "tier": 6,
+          "score": 0.7184,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_823_battlegroundsImage.png"
+        },
+        {
+          "id": "BG26_147",
+          "name": "手风琴机器人",
+          "tier": 3,
+          "score": 0.7174,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_147_battlegroundsImage.png"
+        },
+        {
+          "id": "BG20_301",
+          "name": "晾膘的游客",
+          "tier": 1,
+          "score": 0.7132,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG20_301_battlegroundsImage.png"
+        },
+        {
+          "id": "BG31_815",
+          "name": "沙丘土著",
+          "tier": 1,
+          "score": 0.7132,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_815_battlegroundsImage.png"
+        },
+        {
+          "id": "BG25_013",
+          "name": "腐皮豺狼人",
+          "tier": 1,
+          "score": 0.7121,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG25_013_battlegroundsImage.png"
+        },
+        {
+          "id": "BG31_920",
+          "name": "暗潮战略专家",
+          "tier": 5,
+          "score": 0.7118,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG31_920.webp"
+        }
+      ]
+    },
+    {
+      "slot_id": "board_6",
+      "crop_path": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\hearthstone_battlegrounds_agent\\work\\desktop_assistant\\crops\\board_6.png",
+      "features": {
+        "tier": 1,
+        "attack": 31,
+        "health": null,
+        "slot_type": "minion",
+        "tier_confidence": 0.72,
+        "confidence": 0.5362014701150472,
+        "presence_score": 0.6813
+      },
+      "candidates": [
+        {
+          "id": "BG30_123",
+          "name": "无畏的食客",
+          "tier": 4,
+          "score": 0.7206,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG30_123_battlegroundsImage.png"
+        },
+        {
+          "id": "BG33_823",
+          "name": "空军上将罗杰斯",
+          "tier": 6,
+          "score": 0.7191,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG33_823_battlegroundsImage.png"
+        },
+        {
+          "id": "BG28_741",
+          "name": "蓄能女沙皇",
+          "tier": 5,
+          "score": 0.705,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG28_741_battlegroundsImage.png"
+        },
+        {
+          "id": "BG29_813",
+          "name": "执念诗心龙",
+          "tier": 4,
+          "score": 0.7026,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG29_813_battlegroundsImage.png"
+        },
+        {
+          "id": "BG24_715",
+          "name": "耐心的侦查员",
+          "tier": 2,
+          "score": 0.7025,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG24_715_battlegroundsImage.png"
+        },
+        {
+          "id": "BG35_340",
+          "name": "通报警告机",
+          "tier": 2,
+          "score": 0.7022,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG35_340_battlegroundsImage.png"
+        },
+        {
+          "id": "BG26_505",
+          "name": "热情沙锤手",
+          "tier": 4,
+          "score": 0.7013,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG26_505_battlegroundsImage.png"
+        },
+        {
+          "id": "BG_DAL_775",
+          "name": "坑道爆破师",
+          "tier": 4,
+          "score": 0.7008,
+          "image": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\data card\\BG_DAL_775_battlegroundsImage.png"
+        }
+      ]
+    },
+    {
+      "slot_id": "board_7",
+      "crop_path": "C:\\Users\\dlw\\Documents\\Codex\\2026-07-05\\gen\\outputs\\hearthstone_battlegrounds_agent\\work\\desktop_assistant\\crops\\board_7.png",
+      "features": {
+        "tier": null,
+        "attack": null,
+        "health": null,
+        "slot_type": "minion",
+        "tier_confidence": 0.0,
+        "confidence": 0.11371791004508813,
+        "presence_score": 0.0465
+      },
+      "candidates": []
+    }
+  ]
+}

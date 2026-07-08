@@ -1,0 +1,22 @@
+{
+  "name": "shop_buy_fullscreen_16x9",
+  "description": "Fixed 16:9 full-screen/video Battlegrounds shop profile. Narrow boxes keep each shop minion under 180px at 2536x1426 so compact-card matching is used.",
+  "base_size": [2536, 1426],
+  "phase": "shop_buy",
+  "regions": [
+    {"id": "shop_1", "kind": "card", "box": [0.281, 0.220, 0.348, 0.484], "note": "Shop slot 1, fixed 16:9 with full tavern-tier badge."},
+    {"id": "shop_2", "kind": "card", "box": [0.356, 0.220, 0.423, 0.484], "note": "Shop slot 2, fixed 16:9 with full tavern-tier badge."},
+    {"id": "shop_3", "kind": "card", "box": [0.431, 0.220, 0.498, 0.484], "note": "Shop slot 3, fixed 16:9 with full tavern-tier badge."},
+    {"id": "shop_4", "kind": "card", "box": [0.506, 0.220, 0.573, 0.484], "note": "Shop slot 4, fixed 16:9 with full tavern-tier badge."},
+    {"id": "shop_5", "kind": "card", "box": [0.581, 0.220, 0.648, 0.484], "note": "Shop slot 5, fixed 16:9 with full tavern-tier badge."},
+    {"id": "shop_6", "kind": "card", "box": [0.656, 0.220, 0.723, 0.484], "note": "Shop slot 6, fixed 16:9 with full tavern-tier badge."},
+    {"id": "shop_7", "kind": "card", "box": [0.731, 0.220, 0.798, 0.484], "note": "Shop slot 7, fixed 16:9 with full tavern-tier badge."},
+    {"id": "board_1", "kind": "card", "box": [0.269, 0.468, 0.343, 0.670], "note": "Friendly board slot 1, fixed 16:9 board row."},
+    {"id": "board_2", "kind": "card", "box": [0.346, 0.468, 0.420, 0.670], "note": "Friendly board slot 2, fixed 16:9 board row."},
+    {"id": "board_3", "kind": "card", "box": [0.423, 0.468, 0.497, 0.670], "note": "Friendly board slot 3, fixed 16:9 board row."},
+    {"id": "board_4", "kind": "card", "box": [0.500, 0.468, 0.574, 0.670], "note": "Friendly board slot 4, fixed 16:9 board row."},
+    {"id": "board_5", "kind": "card", "box": [0.577, 0.468, 0.651, 0.670], "note": "Friendly board slot 5, fixed 16:9 board row."},
+    {"id": "board_6", "kind": "card", "box": [0.654, 0.468, 0.728, 0.670], "note": "Friendly board slot 6, fixed 16:9 board row."},
+    {"id": "board_7", "kind": "card", "box": [0.731, 0.468, 0.805, 0.670], "note": "Friendly board slot 7, fixed 16:9 board row."}
+  ]
+}

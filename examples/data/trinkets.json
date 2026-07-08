@@ -1,0 +1,18 @@
+[
+  {
+    "id": "beast_charm",
+    "name": "兽群护符",
+    "text": "每回合第一个召唤的野兽获得+4/+4。",
+    "tier": "lesser",
+    "tribes": ["野兽"],
+    "tags": ["summon", "buff"]
+  },
+  {
+    "id": "coin_pouch",
+    "name": "幸运钱袋",
+    "text": "每回合开始时获得1枚铸币。",
+    "tier": "lesser",
+    "tribes": [],
+    "tags": ["economy"]
+  }
+]

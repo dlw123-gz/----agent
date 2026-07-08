@@ -1,0 +1,37 @@
+{
+  "name": "doc_game_image3",
+  "description": "Initial crop profile based on the game screenshot embedded in the user's design document. Boxes are normalized so they scale with the screenshot size.",
+  "base_size": [472, 621],
+  "regions": [
+    {
+      "id": "shop_1",
+      "kind": "card",
+      "box": [0.350, 0.225, 0.530, 0.430],
+      "note": "Left visible shop card in the document screenshot."
+    },
+    {
+      "id": "shop_2",
+      "kind": "card",
+      "box": [0.555, 0.225, 0.735, 0.430],
+      "note": "Right visible shop card in the document screenshot."
+    },
+    {
+      "id": "board_1",
+      "kind": "card",
+      "box": [0.345, 0.445, 0.520, 0.645],
+      "note": "Left friendly board minion."
+    },
+    {
+      "id": "board_2",
+      "kind": "card",
+      "box": [0.545, 0.445, 0.720, 0.645],
+      "note": "Right friendly board minion."
+    },
+    {
+      "id": "hand_1",
+      "kind": "card",
+      "box": [0.370, 0.825, 0.620, 1.000],
+      "note": "Partially visible hand card; confidence is expected to be lower because the card is cut off."
+    }
+  ]
+}

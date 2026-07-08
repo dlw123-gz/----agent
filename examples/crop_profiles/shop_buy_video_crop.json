@@ -1,0 +1,92 @@
+{
+  "name": "shop_buy_video_crop",
+  "description": "Shop-buy phase profile for cropped Battlegrounds gameplay screenshots. It captures seven shop slots and seven friendly board slots.",
+  "base_size": [821, 502],
+  "phase": "shop_buy",
+  "regions": [
+    {
+      "id": "shop_1",
+      "kind": "card",
+      "box": [0.125, 0.175, 0.250, 0.485],
+      "note": "Leftmost shop minion."
+    },
+    {
+      "id": "shop_2",
+      "kind": "card",
+      "box": [0.230, 0.175, 0.355, 0.485],
+      "note": "Shop minion 2."
+    },
+    {
+      "id": "shop_3",
+      "kind": "card",
+      "box": [0.335, 0.175, 0.460, 0.485],
+      "note": "Shop minion 3."
+    },
+    {
+      "id": "shop_4",
+      "kind": "card",
+      "box": [0.440, 0.175, 0.565, 0.485],
+      "note": "Shop minion 4."
+    },
+    {
+      "id": "shop_5",
+      "kind": "card",
+      "box": [0.545, 0.175, 0.670, 0.485],
+      "note": "Shop minion 5."
+    },
+    {
+      "id": "shop_6",
+      "kind": "card",
+      "box": [0.650, 0.175, 0.775, 0.485],
+      "note": "Shop minion 6."
+    },
+    {
+      "id": "shop_7",
+      "kind": "card",
+      "box": [0.755, 0.175, 0.880, 0.485],
+      "note": "Rightmost shop minion."
+    },
+    {
+      "id": "board_1",
+      "kind": "card",
+      "box": [0.105, 0.455, 0.230, 0.790],
+      "note": "Leftmost friendly board minion."
+    },
+    {
+      "id": "board_2",
+      "kind": "card",
+      "box": [0.215, 0.455, 0.340, 0.790],
+      "note": "Friendly board minion 2."
+    },
+    {
+      "id": "board_3",
+      "kind": "card",
+      "box": [0.325, 0.455, 0.450, 0.790],
+      "note": "Friendly board minion 3."
+    },
+    {
+      "id": "board_4",
+      "kind": "card",
+      "box": [0.435, 0.455, 0.560, 0.790],
+      "note": "Friendly board minion 4."
+    },
+    {
+      "id": "board_5",
+      "kind": "card",
+      "box": [0.545, 0.455, 0.670, 0.790],
+      "note": "Friendly board minion 5."
+    },
+    {
+      "id": "board_6",
+      "kind": "card",
+      "box": [0.655, 0.455, 0.780, 0.790],
+      "note": "Friendly board minion 6."
+    },
+    {
+      "id": "board_7",
+      "kind": "card",
+      "box": [0.765, 0.455, 0.890, 0.790],
+      "note": "Rightmost friendly board minion."
+    }
+  ]
+}
